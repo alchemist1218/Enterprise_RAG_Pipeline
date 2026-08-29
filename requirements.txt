@@ -1,0 +1,47 @@
+# =========================
+# API
+# =========================
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.8
+python-dotenv>=1.0
+
+# =========================
+# LLM / RAG
+# =========================
+langchain
+langchain-community
+langchain-qdrant
+langchain-huggingface
+
+# =========================
+# Embeddings
+# =========================
+sentence-transformers>=3.0
+transformers
+torch
+
+# =========================
+# Vector Database
+# =========================
+qdrant-client>=1.12
+
+# =========================
+# Document Processing
+# =========================
+pdfplumber>=0.11
+camelot-py>=0.11
+tabula-py>=2.9
+python-pptx>=1.0
+Pillow>=10.0
+
+# =========================
+# Data Processing
+# =========================
+pandas>=2.0
+numpy>=1.24
+
+# =========================
+# Visualization
+# =========================
+matplotlib>=3.7
