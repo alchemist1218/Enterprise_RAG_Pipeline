@@ -9,8 +9,6 @@ package other code should import from for PPTX extraction.
 
 from __future__ import annotations
 import os
-from pathlib import Path
-import yaml
 
 from extraction.common.schemas import DocumentResult, PageResult
 from extraction.common.spatial_ordering import flatten_reading_order
@@ -18,13 +16,6 @@ from extraction.common.document_reconstructor import reconstruct_text
 from extraction.pptx.ppt_loader import load_presentation
 from extraction.pptx.shape_extractor import extract_slide_objects
 
-
-CONFIG_PATH = Path("configs/config.yaml")
-
-
-def load_config():
-    with open(CONFIG_PATH, "r") as f:
-        return yaml.safe_load(f)
 
 def extract_slide(slide, slide_number: int, slide_width: int, slide_height: int) -> PageResult:
     objects = extract_slide_objects(slide, slide_height)
@@ -56,20 +47,9 @@ def extract_pptx(pptx_path: str) -> DocumentResult:
 
 
 if __name__ == "__main__":
-    config = load_config()
-
-    input_dir = Path(config["input_path"]["input_dir"])
-    output_dir = Path(config["input_path"]["output_dir"])
-
-    input_path = input_dir / config["pptx"]["input_file"]
-    output_path = output_dir / config["pptx"]["output_file"]
-
-    print(f"Input:  {input_path}")
-    print(f"Output: {output_path}")
-
-    result = extract_pptx(input_path)
-
-    output_dir.mkdir(parents=True, exist_ok=True)
-
-    with open(output_path, "w") as f:
-        f.write(result.to_json())
+    import sys
+    if len(sys.argv) != 2:
+        print("Usage: python -m extraction.pptx.pipeline <path-to-deck.pptx>")
+        raise SystemExit(1)
+    result = extract_pptx(sys.argv[1])
+    print(result.to_json(indent=2))

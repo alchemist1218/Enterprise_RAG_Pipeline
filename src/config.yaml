@@ -1,0 +1,15 @@
+# raw_data_path: directory containing a MIX of .pptx and .pdf files.
+# The pipeline auto-detects each file's real type (by content, not
+# just extension) and routes it accordingly — no need to separate
+# them into different folders.
+raw_data_path: "./data/raw"
+
+# where per-file JSON results are written (one .json per input file)
+output_path: "./data/processed"
+
+# walk subdirectories of raw_data_path too
+recursive: true
+
+# true  = silently skip files that are neither PPTX nor PDF (e.g. .docx, .txt)
+# false = raise an error the moment an unrecognized file is found
+skip_unknown_files: true

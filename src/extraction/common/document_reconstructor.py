@@ -17,6 +17,8 @@ def reconstruct_text(ordered_objects: list[ExtractedObject]) -> str:
     for obj in ordered_objects:
         if obj.type == "text" and obj.text:
             lines.append(obj.text)
+        elif obj.type == "image" and obj.text:
+            lines.append(f"[image text (OCR)]: {obj.text}")
         elif obj.type == "chart":
             chart_line = obj.title or "[chart]"
             if obj.categories and obj.series:
