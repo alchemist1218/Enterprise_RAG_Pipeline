@@ -1,13 +1,9 @@
 """
-extraction/orchestrator/runner.py
+Global runner for enterprise RAG pipeline.
 
-Walks raw_data_path, detects each file's real type, routes it to the
-right pipeline (extract_pptx / extract_pdf), filters out empty
-decorative objects, and writes one JSON file per input document.
-
-A failure on a single file is logged and skipped rather than crashing
-the whole batch — a directory of 200 mixed files shouldn't fail
-entirely because file #47 is corrupted.
+This single orchestrator owns the sequence:
+    detect file type -> route pdf/pptx extractor -> clean -> write output
+Later stages such as chunking or embedding can be added here.
 """
 
 from __future__ import annotations
@@ -18,21 +14,30 @@ from pathlib import Path
 from extraction.pptx.pipeline import extract_pptx
 from extraction.pdf.pipeline import extract_pdf
 from extraction.common.object_filter import filter_document
-from extraction.orchestrator.config import PipelineConfig
-from extraction.orchestrator.file_detector import detect_file_type, FileType
+from cleaning.pipeline import clean_document
+from orchestrator.config import PipelineConfig
+from orchestrator.file_detector import detect_file_type, FileType
 
-logger = logging.getLogger("extraction.runner")
+logger = logging.getLogger("orchestrator.runner")
 
 
 def discover_files(raw_data_path: str, recursive: bool = True) -> list[str]:
     root = Path(raw_data_path)
     pattern = "**/*" if recursive else "*"
-    return [str(p) for p in root.glob(pattern) if p.is_file()]
+    files = []
+    for p in root.glob(pattern):
+        if not p.is_file():
+            continue
+        if p.name.startswith("~$"):
+            continue
+        if p.name.startswith("."):
+            continue
+        files.append(str(p))
+    return files
 
 
 def route_and_extract(path: str, file_type: FileType):
-    """Directs the flow based on detected type — this is the
-    is_ppt-style branch: PPTX goes one way, PDF goes the other."""
+    """Send each file to the correct parser implementation."""
     if file_type == FileType.PPTX:
         return extract_pptx(path)
     if file_type == FileType.PDF:
@@ -41,8 +46,7 @@ def route_and_extract(path: str, file_type: FileType):
 
 
 def run_pipeline(config: PipelineConfig) -> dict:
-    """Processes every file in raw_data_path.
-    Returns {"processed": [...], "skipped": [...], "failed": [...]}."""
+    """Run one top-level flow with extraction and cleaning chained together."""
     os.makedirs(config.output_path, exist_ok=True)
     files = discover_files(config.raw_data_path, config.recursive)
 
@@ -59,12 +63,15 @@ def run_pipeline(config: PipelineConfig) -> dict:
             continue
 
         try:
-            result = route_and_extract(path, file_type)
-            result = filter_document(result)
+            raw_doc = route_and_extract(path, file_type)
+            raw_doc = filter_document(raw_doc)
+
+            # Single global orchestration chain: extraction -> cleaning
+            cleaned_doc, cleaning_report = clean_document(raw_doc)
 
             out_path = Path(config.output_path) / f"{Path(path).stem}.json"
             with open(out_path, "w") as f:
-                f.write(result.to_json(indent=2))
+                f.write(cleaned_doc.to_json(indent=2))
 
             logger.info(f"[{file_type.value}] {path} -> {out_path}")
             summary["processed"].append(path)

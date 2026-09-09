@@ -1,20 +1,5 @@
 """
-extraction/orchestrator/file_detector.py
-
-Detects whether a file is PPTX or PDF by inspecting its actual bytes —
-not just trusting the file extension. A renamed, extension-less, or
-mislabeled file still routes correctly this way.
-
-Detection order: content sniffing first (reliable), extension as a
-fallback only if content sniffing is inconclusive (e.g. a corrupted
-zip that still has a .pptx name).
-
-  - PDF files start with the literal bytes "%PDF-".
-  - PPTX files are zip archives — but so are .docx and .xlsx, so it's
-    not enough to check "is this a zip". A PPTX zip specifically
-    contains a "ppt/presentation.xml" member; a DOCX has "word/..." and
-    an XLSX has "xl/...". Checking for that member is what actually
-    tells PPTX apart from other Office zip formats.
+Global file type detection used by the top-level orchestrator.
 """
 
 from __future__ import annotations
@@ -53,7 +38,6 @@ def detect_file_type(path: str) -> FileType:
     if _looks_like_pptx(path):
         return FileType.PPTX
 
-    # content sniffing was inconclusive — fall back to extension
     ext = path.lower().rsplit(".", 1)[-1] if "." in path else ""
     if ext == "pdf":
         return FileType.PDF
@@ -64,6 +48,4 @@ def detect_file_type(path: str) -> FileType:
 
 
 def is_ppt(path: str) -> bool:
-    """Convenience boolean, matching the is_ppt flag you described —
-    equivalent to `detect_file_type(path) == FileType.PPTX`."""
     return detect_file_type(path) == FileType.PPTX

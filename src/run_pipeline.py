@@ -10,14 +10,16 @@ Usage:
 
 import argparse
 import logging
+from pathlib import Path
 
-from extraction.orchestrator.config import load_config
-from extraction.orchestrator.runner import run_pipeline
+from orchestrator.config import load_config
+from orchestrator.runner import run_pipeline
 
 
 def main():
     parser = argparse.ArgumentParser(description="Run PPTX/PDF context extraction over a directory")
-    parser.add_argument("--config", default="config.yaml", help="Path to config.yaml")
+    default_config = Path(__file__).resolve().with_name("config.yaml")
+    parser.add_argument("--config", default=str(default_config), help="Path to config.yaml")
     args = parser.parse_args()
 
     logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
