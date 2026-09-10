@@ -94,8 +94,10 @@
           "shape_id": 7,
           "name": "Picture 6",
           "z_order": 5,
+          "text": "Market Share (%)\n\n50 -\n\n40 -\n\n30 -\n\n20 -\n\nO-\n\n42%\n\n1\nProduct A\n\n28%\n\nProduct B\n\n18%\n\nProduct C",
           "filename": "image.png",
-          "content_type": "image/png"
+          "content_type": "image/png",
+          "ocr_attempted": true
         },
         {
           "id": 13,
@@ -117,7 +119,7 @@
           ]
         }
       ],
-      "reconstructed_text": "GLOBAL MARKET OVERVIEW\nProduct A\nMarket Share / Status\n42%\nKey Insight: Product A holds a dominant 42% share, driven by strong hospital channel adoption.\nProduct B\n28%\nProduct C\n18%",
+      "reconstructed_text": "GLOBAL MARKET OVERVIEW\nProduct A\nMarket Share / Status\n42%\nKey Insight: Product A holds a dominant 42% share, driven by strong hospital channel adoption.\nProduct B\n28%\n[image text (OCR)]: Market Share (%)\n\n50 -\n\n40 -\n\n30 -\n\n20 -\n\nO-\n\n42%\n\n1\nProduct A\n\n28%\n\nProduct B\n\n18%\n\nProduct C\nProduct C\n18%",
       "layout_name": "Blank"
     },
     {
@@ -212,8 +214,10 @@
           "shape_id": 7,
           "name": "Picture 6",
           "z_order": 5,
+          "text": "|\nNy Qo 9 tT NO\n\n18 -\n16 -\n14-\n\nsjessy JO JequINN\n\nPhase II Phase III\n\nPhase |",
           "filename": "image.png",
-          "content_type": "image/png"
+          "content_type": "image/png",
+          "ocr_attempted": true
         },
         {
           "id": 13,
@@ -235,7 +239,7 @@
           ]
         }
       ],
-      "reconstructed_text": "THERAPEUTIC AREA PIPELINE MATRIX\nPhase II Candidates\nMarket Share / Status\n14 Assets\nKey Insight: Pipeline Velocity: Phase II assets expanded by 14% this quarter, signaling strong mid-stage clinical maturity.\nPhase I Pipeline\n8 Active\nPhase III Registrations\n5 Pending",
+      "reconstructed_text": "THERAPEUTIC AREA PIPELINE MATRIX\nPhase II Candidates\nMarket Share / Status\n14 Assets\nKey Insight: Pipeline Velocity: Phase II assets expanded by 14% this quarter, signaling strong mid-stage clinical maturity.\nPhase I Pipeline\n8 Active\n[image text (OCR)]: |\nNy Qo 9 tT NO\n\n18 -\n16 -\n14-\n\nsjessy JO JequINN\n\nPhase II Phase III\n\nPhase |\nPhase III Registrations\n5 Pending",
       "layout_name": "Blank"
     },
     {
@@ -330,8 +334,10 @@
           "shape_id": 7,
           "name": "Picture 6",
           "z_order": 5,
+          "text": "80 -\n\n65%\n\n23%\n\nfo} fo} fo} fo} fo}\nre} wo T+ o N\n\nuolzeindog WOYOD Jo %\n\n12%\n\ni\nfo}\n2\n\n1\nfo}\n\nMedium Low\n\nHigh",
           "filename": "image.png",
-          "content_type": "image/png"
+          "content_type": "image/png",
+          "ocr_attempted": true
         },
         {
           "id": 13,
@@ -353,7 +359,7 @@
           ]
         }
       ],
-      "reconstructed_text": "PATIENT ADHERENCE & LONGITUDINAL ENGAGEMENT\nHigh Adherence Cohort\nMarket Share / Status\n65%\nKey Insight: Adherence Driver: Digital companion applications boosted High Adherence tiers by 12% longitudinally.\nMedium Adherence\n23%\nLow Adherence / Dropouts\n12%",
+      "reconstructed_text": "PATIENT ADHERENCE & LONGITUDINAL ENGAGEMENT\nHigh Adherence Cohort\nMarket Share / Status\n65%\nKey Insight: Adherence Driver: Digital companion applications boosted High Adherence tiers by 12% longitudinally.\nMedium Adherence\n23%\n[image text (OCR)]: 80 -\n\n65%\n\n23%\n\nfo} fo} fo} fo} fo}\nre} wo T+ o N\n\nuolzeindog WOYOD Jo %\n\n12%\n\ni\nfo}\n2\n\n1\nfo}\n\nMedium Low\n\nHigh\nLow Adherence / Dropouts\n12%",
       "layout_name": "Blank"
     }
   ]

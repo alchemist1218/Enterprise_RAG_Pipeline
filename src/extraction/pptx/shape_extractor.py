@@ -15,7 +15,7 @@ from extraction.pptx.text_extractor import infer_role, extract_text_runs
 from extraction.pptx.table_extractor import extract_table
 from extraction.pptx.chart_extractor import extract_chart
 from extraction.pptx.image_extractor import extract_image_meta
-from extraction.pptx.image_ocr import ocr_image_shape
+from extraction.pptx.image_ocr import ocr_image_shape, OCR_AVAILABLE
 
 
 def _bbox(shape) -> BoundingBox:
@@ -51,10 +51,11 @@ def extract_slide_objects(slide, slide_height: int) -> list[ExtractedObject]:
 
             elif sub_shape.shape_type == MSO_SHAPE_TYPE.PICTURE:
                 img_meta = extract_image_meta(sub_shape)
-                ocr_text = ocr_image_shape(sub_shape)  # None if OCR unavailable / no text found
+                ocr_text = ocr_image_shape(sub_shape)  # None if OCR unavailable or found nothing
                 objects.append(ExtractedObject(
                     type="image", **common_kwargs, **img_meta,
                     text=ocr_text,
+                    ocr_attempted=OCR_AVAILABLE,  # True even if ocr_text ends up None/empty
                 ))
 
             elif getattr(sub_shape, "has_text_frame", False) and sub_shape.has_text_frame and sub_shape.text_frame.text.strip():

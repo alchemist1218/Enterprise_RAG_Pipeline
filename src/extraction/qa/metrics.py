@@ -63,14 +63,20 @@ def evaluate_slide(page: PageResult) -> SlideQualityFlags:
         if obj.type == "table" and not obj.rows:
             q.add_flag("table_extraction_empty", weight=4)
 
-    # 4. Images with no OCR text at all — could be a blank/decorative
-    #    image (fine) or a chart screenshot OCR failed to read (not fine).
-    #    Can't tell which from here — that's exactly why it's flagged,
-    #    not silently accepted.
+        # 4. Images with no OCR text.
+    #    Only flag images where OCR actually RAN and found nothing —
+    #    that's a real signal (a chart screenshot that failed to read).
+    #    If OCR never ran at all (ocr_attempted is None/unset), we can't
+    #    tell if the image ever had text — flag separately, lower weight,
+    #    since it's "unknown", not "confirmed empty".
     image_objs = [o for o in page.objects if o.type == "image"]
-    images_without_text = [o for o in image_objs if not o.text]
-    if images_without_text:
-        q.add_flag(f"image_no_ocr_text(x{len(images_without_text)})", weight=2)
+    ocr_confirmed_empty = [o for o in image_objs if o.ocr_attempted and not o.text]
+    ocr_never_attempted = [o for o in image_objs if not o.ocr_attempted]
+
+    if ocr_confirmed_empty:
+        q.add_flag(f"image_ocr_found_nothing(x{len(ocr_confirmed_empty)})", weight=3)
+    if ocr_never_attempted:
+        q.add_flag(f"image_ocr_not_attempted(x{len(ocr_never_attempted)})", weight=1)
 
     # 5. Slide dominated by contentless "shape" objects relative to
     #    real content — may indicate misclassification upstream

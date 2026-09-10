@@ -1,36 +1,33 @@
 document_id,page_number,risk_score,flags,reason
-pharma_complex_dashboards_set,1,2,image_no_ocr_text(x1),FLAGGED
-pharma_complex_dashboards_set,2,2,image_no_ocr_text(x1),FLAGGED
-pharma_complex_dashboards_set,3,2,image_no_ocr_text(x1),FLAGGED
-labeled samples,2,2,image_no_ocr_text(x6),FLAGGED
-labeled samples,18,2,image_no_ocr_text(x5),FLAGGED
-labeled samples,50,0,,RANDOM_SAMPLE
-labeled samples,12,0,,RANDOM_SAMPLE
-labeled samples,3,0,,RANDOM_SAMPLE
-labeled samples,24,0,,RANDOM_SAMPLE
-labeled samples,22,0,,RANDOM_SAMPLE
-labeled samples,21,0,,RANDOM_SAMPLE
-labeled samples,13,0,,RANDOM_SAMPLE
-labeled samples,10,0,,RANDOM_SAMPLE
-labeled samples,44,0,,RANDOM_SAMPLE
-labeled samples,9,0,,RANDOM_SAMPLE
-labeled samples,35,0,,RANDOM_SAMPLE
-labeled samples,5,0,,RANDOM_SAMPLE
-labeled samples,1,0,,RANDOM_SAMPLE
-labeled samples,40,0,,RANDOM_SAMPLE
-labeled samples,45,0,,RANDOM_SAMPLE
-pharma_market_research_data,1,0,,RANDOM_SAMPLE
-labeled samples,23,0,,RANDOM_SAMPLE
-labeled samples,26,0,,RANDOM_SAMPLE
-labeled samples,39,0,,RANDOM_SAMPLE
-labeled samples,49,0,,RANDOM_SAMPLE
-labeled samples,36,0,,RANDOM_SAMPLE
-labeled samples,27,0,,RANDOM_SAMPLE
-labeled samples,31,0,,RANDOM_SAMPLE
-labeled samples,20,0,,RANDOM_SAMPLE
-labeled samples,42,0,,RANDOM_SAMPLE
+labeled samples,2,3,image_ocr_found_nothing(x6),FLAGGED
+labeled samples,18,3,image_ocr_found_nothing(x5),FLAGGED
 labeled samples,47,0,,RANDOM_SAMPLE
-labeled samples,46,0,,RANDOM_SAMPLE
-labeled samples,32,0,,RANDOM_SAMPLE
+labeled samples,8,0,,RANDOM_SAMPLE
+pharma_complex_dashboards_set,2,0,,RANDOM_SAMPLE
+labeled samples,21,0,,RANDOM_SAMPLE
 labeled samples,19,0,,RANDOM_SAMPLE
+labeled samples,16,0,,RANDOM_SAMPLE
+labeled samples,9,0,,RANDOM_SAMPLE
+labeled samples,7,0,,RANDOM_SAMPLE
+labeled samples,40,0,,RANDOM_SAMPLE
+labeled samples,5,0,,RANDOM_SAMPLE
+labeled samples,32,0,,RANDOM_SAMPLE
+pharma_complex_dashboards_set,3,0,,RANDOM_SAMPLE
+labeled samples,50,0,,RANDOM_SAMPLE
+labeled samples,43,0,,RANDOM_SAMPLE
+labeled samples,15,0,,RANDOM_SAMPLE
+pharma_market_research_data,1,0,,RANDOM_SAMPLE
+labeled samples,20,0,,RANDOM_SAMPLE
+labeled samples,23,0,,RANDOM_SAMPLE
+pharma_complex_dashboards_set,1,0,,RANDOM_SAMPLE
+labeled samples,49,0,,RANDOM_SAMPLE
+labeled samples,45,0,,RANDOM_SAMPLE
+labeled samples,26,0,,RANDOM_SAMPLE
+labeled samples,24,0,,RANDOM_SAMPLE
 labeled samples,28,0,,RANDOM_SAMPLE
+labeled samples,31,0,,RANDOM_SAMPLE
+labeled samples,36,0,,RANDOM_SAMPLE
+labeled samples,35,0,,RANDOM_SAMPLE
+pharma_market_research_data,2,0,,RANDOM_SAMPLE
+labeled samples,46,0,,RANDOM_SAMPLE
+labeled samples,42,0,,RANDOM_SAMPLE

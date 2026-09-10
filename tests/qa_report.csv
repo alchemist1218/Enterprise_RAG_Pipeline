@@ -1,9 +1,9 @@
 document_id,page_number,risk_score,char_count,object_count,flags
-pharma_complex_dashboards_set,1,2,181,6,image_no_ocr_text(x1)
-pharma_complex_dashboards_set,2,2,268,6,image_no_ocr_text(x1)
-pharma_complex_dashboards_set,3,2,255,6,image_no_ocr_text(x1)
-labeled samples,2,2,226,14,image_no_ocr_text(x6)
-labeled samples,18,2,124,7,image_no_ocr_text(x5)
+labeled samples,2,3,226,14,image_ocr_found_nothing(x6)
+labeled samples,18,3,124,7,image_ocr_found_nothing(x5)
+pharma_complex_dashboards_set,1,0,296,6,
+pharma_complex_dashboards_set,2,0,367,6,
+pharma_complex_dashboards_set,3,0,387,6,
 labeled samples,1,0,158,10,
 labeled samples,3,0,153,6,
 labeled samples,5,0,260,6,

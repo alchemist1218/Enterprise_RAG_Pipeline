@@ -304,7 +304,8 @@
           "name": "Picture 73",
           "z_order": 0,
           "filename": "image.emf",
-          "content_type": "image/x-wmf"
+          "content_type": "image/x-wmf",
+          "ocr_attempted": true
         },
         {
           "id": 3,
@@ -384,7 +385,8 @@
           "name": "Picture 55",
           "z_order": 3,
           "filename": "image.emf",
-          "content_type": "image/x-wmf"
+          "content_type": "image/x-wmf",
+          "ocr_attempted": true
         },
         {
           "id": 13,
@@ -424,7 +426,8 @@
           "name": "Picture 71",
           "z_order": 1,
           "filename": "image.emf",
-          "content_type": "image/x-wmf"
+          "content_type": "image/x-wmf",
+          "ocr_attempted": true
         },
         {
           "id": 7,
@@ -464,7 +467,8 @@
           "name": "Picture 53",
           "z_order": 4,
           "filename": "image.emf",
-          "content_type": "image/x-wmf"
+          "content_type": "image/x-wmf",
+          "ocr_attempted": true
         },
         {
           "id": 17,
@@ -504,7 +508,8 @@
           "name": "Picture 63",
           "z_order": 2,
           "filename": "image.emf",
-          "content_type": "image/x-wmf"
+          "content_type": "image/x-wmf",
+          "ocr_attempted": true
         },
         {
           "id": 9,
@@ -544,7 +549,8 @@
           "name": "Picture 51",
           "z_order": 5,
           "filename": "image.emf",
-          "content_type": "image/x-wmf"
+          "content_type": "image/x-wmf",
+          "ocr_attempted": true
         },
         {
           "id": 21,
@@ -3383,7 +3389,8 @@
           "name": "Picture 15",
           "z_order": 0,
           "filename": "image.png",
-          "content_type": "image/png"
+          "content_type": "image/png",
+          "ocr_attempted": true
         },
         {
           "id": 13,
@@ -3398,7 +3405,8 @@
           "name": "Picture 18",
           "z_order": 0,
           "filename": "image.png",
-          "content_type": "image/png"
+          "content_type": "image/png",
+          "ocr_attempted": true
         },
         {
           "id": 15,
@@ -3413,7 +3421,8 @@
           "name": "Picture 21",
           "z_order": 0,
           "filename": "image.png",
-          "content_type": "image/png"
+          "content_type": "image/png",
+          "ocr_attempted": true
         },
         {
           "id": 32,
@@ -3428,7 +3437,8 @@
           "name": "Picture 21",
           "z_order": 5,
           "filename": "image.png",
-          "content_type": "image/png"
+          "content_type": "image/png",
+          "ocr_attempted": true
         },
         {
           "id": 26,
@@ -3443,7 +3453,8 @@
           "name": "Picture 18",
           "z_order": 3,
           "filename": "image.png",
-          "content_type": "image/png"
+          "content_type": "image/png",
+          "ocr_attempted": true
         },
         {
           "id": 25,

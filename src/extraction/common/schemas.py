@@ -57,6 +57,8 @@ class ExtractedObject:
     filename: Optional[str] = None
     content_type: Optional[str] = None
     xref: Optional[int] = None
+    ocr_attempted: Optional[bool] = None  # None = OCR step didn't run at all;
+                                           # True + no text = OCR ran and found nothing (real signal)
 
     def to_dict(self) -> dict:
         d = asdict(self)
