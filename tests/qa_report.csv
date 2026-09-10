@@ -1,9 +1,753 @@
 document_id,page_number,risk_score,char_count,object_count,flags
+ARDC_Pidapalooza_Simons_Duncan_2020,1,3,108,3,image_ocr_found_nothing(x1)
+ARDC_Pidapalooza_Simons_Duncan_2020,6,3,88,4,image_ocr_found_nothing(x1)
+magCEvNS2018_mahapatra-rupak,2,3,195,6,image_ocr_found_nothing(x3)
+magCEvNS2018_mahapatra-rupak,3,3,338,11,image_ocr_found_nothing(x3)
+magCEvNS2018_mahapatra-rupak,5,3,640,7,image_ocr_found_nothing(x1)
+magCEvNS2018_mahapatra-rupak,6,3,784,13,image_ocr_found_nothing(x1)
+magCEvNS2018_mahapatra-rupak,8,3,394,9,image_ocr_found_nothing(x2)
+magCEvNS2018_mahapatra-rupak,9,3,108,10,image_ocr_found_nothing(x3)
+magCEvNS2018_mahapatra-rupak,10,3,257,8,image_ocr_found_nothing(x4)
+magCEvNS2018_mahapatra-rupak,12,3,310,5,image_ocr_found_nothing(x3)
+magCEvNS2018_mahapatra-rupak,14,3,298,12,image_ocr_found_nothing(x4)
+magCEvNS2018_mahapatra-rupak,15,3,295,8,image_ocr_found_nothing(x3)
+magCEvNS2018_mahapatra-rupak,16,3,286,6,image_ocr_found_nothing(x2)
+magCEvNS2018_mahapatra-rupak,17,3,258,11,image_ocr_found_nothing(x4)
+magCEvNS2018_mahapatra-rupak,18,3,374,9,image_ocr_found_nothing(x3)
+magCEvNS2018_mahapatra-rupak,19,3,383,9,image_ocr_found_nothing(x6)
+magCEvNS2018_mahapatra-rupak,20,3,263,4,image_ocr_found_nothing(x1)
+magCEvNS2018_mahapatra-rupak,21,3,358,10,image_ocr_found_nothing(x2)
+magCEvNS2018_mahapatra-rupak,22,3,547,8,image_ocr_found_nothing(x6)
+magCEvNS2018_mahapatra-rupak,24,3,1311,26,image_ocr_found_nothing(x8)
+magCEvNS2018_mahapatra-rupak,26,3,974,13,image_ocr_found_nothing(x5)
+Bösmann EKC2023,1,3,288,5,image_ocr_found_nothing(x2)
+Bösmann EKC2023,2,3,556,18,image_ocr_found_nothing(x7)
+Bösmann EKC2023,3,3,221,12,image_ocr_found_nothing(x9)
+Bösmann EKC2023,7,3,360,4,image_ocr_found_nothing(x1)
+Bösmann EKC2023,8,3,189,7,image_ocr_found_nothing(x4)
+Bösmann EKC2023,12,3,688,15,image_ocr_found_nothing(x4)
+Bösmann EKC2023,14,3,347,8,image_ocr_found_nothing(x2)
+Bösmann EKC2023,17,3,257,4,image_ocr_found_nothing(x1)
+AEROdays2019_Innovative manufacturing and MRO_Digitalization of maint operations,1,3,154,4,image_ocr_found_nothing(x2)
+AEROdays2019_Innovative manufacturing and MRO_Digitalization of maint operations,3,3,956,23,image_ocr_found_nothing(x5)
+AEROdays2019_Innovative manufacturing and MRO_Digitalization of maint operations,8,3,352,3,image_ocr_found_nothing(x1)
+Using IIIF to teach Digital Humanities (1) (2),1,3,286,6,image_ocr_found_nothing(x1)
+Using IIIF to teach Digital Humanities (1) (2),3,3,360,2,image_ocr_found_nothing(x1)
+Using IIIF to teach Digital Humanities (1) (2),6,3,205,3,image_ocr_found_nothing(x1)
+Using IIIF to teach Digital Humanities (1) (2),27,3,344,13,image_ocr_found_nothing(x5)
+Präsentation_WasBedeutetOpenAccess,1,3,473,7,image_ocr_found_nothing(x2)
+Präsentation_WasBedeutetOpenAccess,3,3,780,3,image_ocr_found_nothing(x1)
+Präsentation_WasBedeutetOpenAccess,4,3,666,5,image_ocr_found_nothing(x1)
+Präsentation_WasBedeutetOpenAccess,7,3,464,25,image_ocr_found_nothing(x7)
+Präsentation_WasBedeutetOpenAccess,8,3,548,14,image_ocr_found_nothing(x5)
+Präsentation_WasBedeutetOpenAccess,9,3,350,3,image_ocr_found_nothing(x1)
+Präsentation_WasBedeutetOpenAccess,10,3,465,9,image_ocr_found_nothing(x3)
+Präsentation_WasBedeutetOpenAccess,11,3,498,24,image_ocr_found_nothing(x6)
+Präsentation_WasBedeutetOpenAccess,12,3,456,23,image_ocr_found_nothing(x5)
+Präsentation_WasBedeutetOpenAccess,16,3,471,9,image_ocr_found_nothing(x2)
+Präsentation_WasBedeutetOpenAccess,19,3,947,5,image_ocr_found_nothing(x1)
+IPPOG-Poster-20211231,1,3,4551,28,image_ocr_found_nothing(x8)
+FootWork_Closing_VLAB,7,3,352,8,image_ocr_found_nothing(x1)
+FootWork_Closing_VLAB,10,3,234,7,image_ocr_found_nothing(x3)
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,2,3,471,3,image_ocr_found_nothing(x1)
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,3,3,205,3,image_ocr_found_nothing(x1)
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,4,3,498,3,image_ocr_found_nothing(x1)
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,5,3,535,18,image_ocr_found_nothing(x1)
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,6,3,363,4,image_ocr_found_nothing(x1)
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,7,3,354,3,image_ocr_found_nothing(x1)
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,8,3,446,3,image_ocr_found_nothing(x1)
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,9,3,419,6,image_ocr_found_nothing(x1)
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,10,3,139,3,image_ocr_found_nothing(x1)
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,11,3,1123,4,image_ocr_found_nothing(x1)
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,12,3,933,4,image_ocr_found_nothing(x1)
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,13,3,993,4,image_ocr_found_nothing(x1)
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,14,3,140,3,image_ocr_found_nothing(x1)
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,15,3,1275,4,image_ocr_found_nothing(x1)
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,16,3,1169,4,image_ocr_found_nothing(x1)
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,18,3,484,4,image_ocr_found_nothing(x1)
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,19,3,690,4,image_ocr_found_nothing(x1)
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,20,3,471,4,image_ocr_found_nothing(x1)
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,21,3,1025,4,image_ocr_found_nothing(x1)
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,22,3,539,4,image_ocr_found_nothing(x1)
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,23,3,961,4,image_ocr_found_nothing(x1)
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,24,3,451,4,image_ocr_found_nothing(x1)
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,25,3,222,7,image_ocr_found_nothing(x3)
+Design of Coal Handling ,4,3,347,15,image_ocr_found_nothing(x1)
+Design of Coal Handling ,19,3,255,5,image_ocr_found_nothing(x1)
+chrisdone_padua18_final,1,3,135,4,image_ocr_found_nothing(x2)
+chrisdone_padua18_final,2,3,162,4,image_ocr_found_nothing(x2)
+chrisdone_padua18_final,3,3,1152,6,image_ocr_found_nothing(x1)
+chrisdone_padua18_final,4,3,94,4,image_ocr_found_nothing(x2)
+chrisdone_padua18_final,5,3,171,5,image_ocr_found_nothing(x3)
+chrisdone_padua18_final,16,3,2614,8,image_ocr_found_nothing(x3)
+chrisdone_padua18_final,17,3,244,4,image_ocr_found_nothing(x2)
+chrisdone_padua18_final,31,3,225,8,image_ocr_found_nothing(x1)
+chrisdone_padua18_final,33,3,205,6,image_ocr_found_nothing(x1)
+5-10 11A 215 DuaneNash,3,3,598,10,image_ocr_found_nothing(x2)
+5-10 11A 215 DuaneNash,5,3,812,12,image_ocr_found_nothing(x4)
+5-10 11A 215 DuaneNash,7,3,552,11,image_ocr_found_nothing(x4)
+5-10 11A 215 DuaneNash,8,3,1007,7,image_ocr_found_nothing(x2)
+5-10 11A 215 DuaneNash,10,3,940,6,image_ocr_found_nothing(x1)
+5-10 11A 215 DuaneNash,11,3,585,17,image_ocr_found_nothing(x5)
+5-10 11A 215 DuaneNash,12,3,496,12,image_ocr_found_nothing(x2)
+5-10 11A 215 DuaneNash,13,3,179,11,image_ocr_found_nothing(x2)
+5-10 11A 215 DuaneNash,14,3,178,8,image_ocr_found_nothing(x4)
+5-10 11A 215 DuaneNash,15,3,443,19,image_ocr_found_nothing(x6)
+5-10 11A 215 DuaneNash,16,3,5082,11,image_ocr_found_nothing(x1)
+5-10 11A 215 DuaneNash,19,3,262,6,image_ocr_found_nothing(x2)
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,4,3,243,3,image_ocr_found_nothing(x1)
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,6,3,665,22,image_ocr_found_nothing(x5)
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,7,3,730,15,image_ocr_found_nothing(x1)
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,8,3,378,18,image_ocr_found_nothing(x8)
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,9,3,227,14,image_ocr_found_nothing(x7)
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,21,3,482,6,image_ocr_found_nothing(x2)
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,22,3,148,3,image_ocr_found_nothing(x1)
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,23,3,451,10,image_ocr_found_nothing(x2)
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,28,3,1447,9,image_ocr_found_nothing(x3)
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,37,3,751,5,image_ocr_found_nothing(x2)
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,43,3,309,5,image_ocr_found_nothing(x1)
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,44,3,591,6,image_ocr_found_nothing(x2)
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,46,3,387,12,image_ocr_found_nothing(x6)
+2021-06-08+10_Praesentation_TTT_Universitaeten,2,3,587,15,image_ocr_found_nothing(x2)
+2021-06-08+10_Praesentation_TTT_Universitaeten,4,3,266,3,image_ocr_found_nothing(x1)
+2021-06-08+10_Praesentation_TTT_Universitaeten,6,3,340,3,image_ocr_found_nothing(x1)
+2021-06-08+10_Praesentation_TTT_Universitaeten,8,3,153,3,image_ocr_found_nothing(x1)
+2021-06-08+10_Praesentation_TTT_Universitaeten,13,3,367,4,image_ocr_found_nothing(x1)
+2021-06-08+10_Praesentation_TTT_Universitaeten,16,3,461,8,image_ocr_found_nothing(x1)
+2021-06-08+10_Praesentation_TTT_Universitaeten,18,3,190,4,image_ocr_found_nothing(x1)
+2021-06-08+10_Praesentation_TTT_Universitaeten,19,3,2459,9,image_ocr_found_nothing(x1)
+2021-06-08+10_Praesentation_TTT_Universitaeten,20,3,116,3,image_ocr_found_nothing(x1)
+2021-06-08+10_Praesentation_TTT_Universitaeten,24,3,148,4,image_ocr_found_nothing(x1)
+2021-06-08+10_Praesentation_TTT_Universitaeten,34,3,118,4,image_ocr_found_nothing(x1)
+2021-06-08+10_Praesentation_TTT_Universitaeten,37,3,917,16,image_ocr_found_nothing(x4)
+MSWCXslides_Nov2023,4,3,345,3,image_ocr_found_nothing(x1)
+MSWCXslides_Nov2023,7,3,372,6,image_ocr_found_nothing(x1)
+MSWCXslides_Nov2023,10,3,750,17,image_ocr_found_nothing(x3)
+MSWCXslides_Nov2023,12,3,634,8,image_ocr_found_nothing(x5)
+MSWCXslides_Nov2023,14,3,754,16,image_ocr_found_nothing(x3)
+MSWCXslides_Nov2023,15,3,794,18,image_ocr_found_nothing(x3)
 labeled samples,2,3,226,14,image_ocr_found_nothing(x6)
 labeled samples,18,3,124,7,image_ocr_found_nothing(x5)
+For Sarajevo_ Combating harassment,1,3,179,4,image_ocr_found_nothing(x1)
+For Sarajevo_ Combating harassment,13,3,324,5,image_ocr_found_nothing(x1)
+Module 5 - Editor Reviewer Author Webinar - Data and Software,1,3,486,6,image_ocr_found_nothing(x2)
+Module 5 - Editor Reviewer Author Webinar - Data and Software,18,3,495,7,image_ocr_found_nothing(x2)
+Module 5 - Editor Reviewer Author Webinar - Data and Software,20,3,913,5,image_ocr_found_nothing(x1)
+Module 5 - Editor Reviewer Author Webinar - Data and Software,21,3,440,6,image_ocr_found_nothing(x1)
+ReproducibleComputationalEnvironment,7,3,262,3,image_ocr_found_nothing(x1)
+ReproducibleComputationalEnvironment,44,3,264,5,image_ocr_found_nothing(x1)
+ReproducibleComputationalEnvironment,53,3,672,11,image_ocr_found_nothing(x1)
+AREA academy- Module 4.1,1,3,203,4,image_ocr_found_nothing(x1)
+AREA academy- Module 4.1,7,3,94,3,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,1,3,312,6,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,2,3,419,3,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,3,3,263,4,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,4,3,461,7,image_ocr_found_nothing(x2)
+__sesion_5_calificadores_vision_general,5,3,429,4,image_ocr_found_nothing(x2)
+__sesion_5_calificadores_vision_general,6,3,563,6,image_ocr_found_nothing(x3)
+__sesion_5_calificadores_vision_general,8,3,294,5,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,9,3,762,5,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,10,3,433,4,image_ocr_found_nothing(x2)
+__sesion_5_calificadores_vision_general,11,3,553,5,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,13,3,553,5,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,14,3,622,5,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,15,3,2543,7,image_ocr_found_nothing(x2)
+__sesion_5_calificadores_vision_general,16,3,1100,6,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,17,3,862,7,image_ocr_found_nothing(x2)
+__sesion_5_calificadores_vision_general,18,3,1026,8,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,19,3,476,7,image_ocr_found_nothing(x2)
+__sesion_5_calificadores_vision_general,20,3,1020,8,image_ocr_found_nothing(x2)
+__sesion_5_calificadores_vision_general,21,3,436,7,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,23,3,294,4,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,24,3,871,6,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,25,3,591,6,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,26,3,834,6,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,27,3,800,4,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,28,3,643,7,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,29,3,763,4,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,30,3,437,5,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,31,3,1097,4,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,32,3,584,5,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,33,3,499,5,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,34,3,978,5,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,35,3,901,6,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,36,3,755,7,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,37,3,561,5,image_ocr_found_nothing(x2)
+__sesion_5_calificadores_vision_general,38,3,299,4,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,39,3,1202,3,image_ocr_found_nothing(x1)
+__sesion_5_calificadores_vision_general,40,3,593,5,image_ocr_found_nothing(x1)
+ReproHack-ICCS_TTW,1,3,226,4,image_ocr_found_nothing(x1)
+ReproHack-ICCS_TTW,4,3,263,7,image_ocr_found_nothing(x3)
+ReproHack-ICCS_TTW,6,3,629,16,image_ocr_found_nothing(x4)
+ReproHack-ICCS_TTW,7,3,608,14,image_ocr_found_nothing(x2)
+ReproHack-ICCS_TTW,8,3,911,15,image_ocr_found_nothing(x2)
+ReproHack-ICCS_TTW,9,3,1499,16,image_ocr_found_nothing(x2)
+ReproHack-ICCS_TTW,10,3,184,10,image_ocr_found_nothing(x4)
+ReproHack-ICCS_TTW,11,3,1195,32,image_ocr_found_nothing(x11)
+ReproHack-ICCS_TTW,12,3,260,14,image_ocr_found_nothing(x5)
+ReproHack-ICCS_TTW,13,3,862,12,image_ocr_found_nothing(x1)
+ReproHack-ICCS_TTW,14,3,480,6,image_ocr_found_nothing(x1)
+ReproHack-ICCS_TTW,15,3,1861,6,image_ocr_found_nothing(x1)
+ReproHack-ICCS_TTW,19,3,547,5,image_ocr_found_nothing(x2)
+ReproHack-ICCS_TTW,20,3,474,5,image_ocr_found_nothing(x2)
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,1,3,368,8,image_ocr_found_nothing(x3)
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,3,3,1039,10,image_ocr_found_nothing(x3)
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,5,3,768,7,image_ocr_found_nothing(x1)
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,8,3,1020,5,image_ocr_found_nothing(x1)
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,15,3,400,4,image_ocr_found_nothing(x1)
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,16,3,1329,10,image_ocr_found_nothing(x2)
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,17,3,369,4,image_ocr_found_nothing(x1)
+SCD UPHF_Ressources BU,20,3,1151,7,image_ocr_found_nothing(x1)
+SCD UPHF_Ressources BU,24,3,625,12,image_ocr_found_nothing(x2)
+220322 Webinar for WUR Data Stewards,8,3,869,26,image_ocr_found_nothing(x16)
+220322 Webinar for WUR Data Stewards,9,3,120,2,image_ocr_found_nothing(x1)
+220322 Webinar for WUR Data Stewards,10,3,368,7,image_ocr_found_nothing(x1)
+220322 Webinar for WUR Data Stewards,11,3,241,61,image_ocr_found_nothing(x53)
+220322 Webinar for WUR Data Stewards,12,3,425,62,image_ocr_found_nothing(x53)
+220322 Webinar for WUR Data Stewards,13,3,233,4,image_ocr_found_nothing(x1)
+220322 Webinar for WUR Data Stewards,14,3,334,21,image_ocr_found_nothing(x15)
+220322 Webinar for WUR Data Stewards,15,3,124,3,image_ocr_found_nothing(x1)
+220322 Webinar for WUR Data Stewards,17,3,591,9,image_ocr_found_nothing(x1)
+220322 Webinar for WUR Data Stewards,23,3,504,7,image_ocr_found_nothing(x1)
+Outil-29,5,3,1190,6,image_ocr_found_nothing(x2)
+Whitaker_TPS_HDRUKTuringStudentInduction_September2020,10,3,277,5,image_ocr_found_nothing(x1)
+Whitaker_TPS_HDRUKTuringStudentInduction_September2020,12,3,556,7,image_ocr_found_nothing(x1)
+Whitaker_TPS_HDRUKTuringStudentInduction_September2020,14,3,343,6,image_ocr_found_nothing(x1)
+Whitaker_TPS_HDRUKTuringStudentInduction_September2020,15,3,555,10,image_ocr_found_nothing(x1)
+Whitaker_TPS_HDRUKTuringStudentInduction_September2020,19,3,518,7,image_ocr_found_nothing(x1)
+LIAISON how to guides training module 1,3,3,665,3,image_ocr_found_nothing(x1)
+LIAISON how to guides training module 1,7,3,450,3,image_ocr_found_nothing(x1)
+LIAISON how to guides training module 1,17,3,332,4,image_ocr_found_nothing(x1)
+LIAISON how to guides training module 1,18,3,540,4,image_ocr_found_nothing(x1)
+LIAISON how to guides training module 1,19,3,1048,5,image_ocr_found_nothing(x2)
+kick_off_meeting_DBGI_KG,3,3,124,6,image_ocr_found_nothing(x1)
+kick_off_meeting_DBGI_KG,7,3,2104,9,image_ocr_found_nothing(x2)
+kick_off_meeting_DBGI_KG,9,3,266,10,image_ocr_found_nothing(x2)
+kick_off_meeting_DBGI_KG,10,3,349,6,image_ocr_found_nothing(x1)
+kick_off_meeting_DBGI_KG,11,3,491,13,image_ocr_found_nothing(x4)
+kick_off_meeting_DBGI_KG,12,3,690,16,image_ocr_found_nothing(x5)
+kick_off_meeting_DBGI_KG,13,3,959,14,image_ocr_found_nothing(x1)
+kick_off_meeting_DBGI_KG,15,3,204,8,image_ocr_found_nothing(x2)
+kick_off_meeting_DBGI_KG,16,3,283,11,image_ocr_found_nothing(x3)
+kick_off_meeting_DBGI_KG,17,3,342,14,image_ocr_found_nothing(x3)
+kick_off_meeting_DBGI_KG,18,3,161,5,image_ocr_found_nothing(x1)
+kick_off_meeting_DBGI_KG,19,3,866,10,image_ocr_found_nothing(x1)
+kick_off_meeting_DBGI_KG,20,3,1108,12,image_ocr_found_nothing(x1)
+kick_off_meeting_DBGI_KG,21,3,338,14,image_ocr_found_nothing(x2)
+kick_off_meeting_DBGI_KG,22,3,380,16,image_ocr_found_nothing(x2)
+kick_off_meeting_DBGI_KG,23,3,450,16,image_ocr_found_nothing(x2)
+kick_off_meeting_DBGI_KG,24,3,255,7,image_ocr_found_nothing(x2)
+kick_off_meeting_DBGI_KG,25,3,472,13,image_ocr_found_nothing(x2)
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,18,3,449,3,image_ocr_found_nothing(x1)
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,20,3,697,4,image_ocr_found_nothing(x1)
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,21,3,544,3,image_ocr_found_nothing(x1)
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,22,3,537,3,image_ocr_found_nothing(x1)
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,23,3,288,3,image_ocr_found_nothing(x1)
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,24,3,728,3,image_ocr_found_nothing(x1)
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,25,3,636,3,image_ocr_found_nothing(x1)
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,26,3,1199,4,image_ocr_found_nothing(x1)
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,27,3,420,4,image_ocr_found_nothing(x1)
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,28,3,308,3,image_ocr_found_nothing(x1)
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,29,3,1506,4,image_ocr_found_nothing(x1)
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,30,3,614,7,image_ocr_found_nothing(x3)
+AR-0048 - PPT - ANALYSIS OF CHEMICAL QUALITY OF DRIED SENDFISH SEA CUCUMBER - Syahibul Kahfi Hamid (1),1,3,308,5,image_ocr_found_nothing(x1)
+AR-0048 - PPT - ANALYSIS OF CHEMICAL QUALITY OF DRIED SENDFISH SEA CUCUMBER - Syahibul Kahfi Hamid (1),2,3,770,3,image_ocr_found_nothing(x1)
+AR-0048 - PPT - ANALYSIS OF CHEMICAL QUALITY OF DRIED SENDFISH SEA CUCUMBER - Syahibul Kahfi Hamid (1),4,3,380,4,image_ocr_found_nothing(x2)
+Town_Hall_Ethics_AI_ML,1,3,322,7,image_ocr_found_nothing(x3)
+Town_Hall_Ethics_AI_ML,3,3,472,9,image_ocr_found_nothing(x1)
+Town_Hall_Ethics_AI_ML,6,3,355,18,image_ocr_found_nothing(x1)
+Town_Hall_Ethics_AI_ML,14,3,350,3,image_ocr_found_nothing(x1)
+Town_Hall_Ethics_AI_ML,15,3,393,3,image_ocr_found_nothing(x1)
+Town_Hall_Ethics_AI_ML,16,3,191,3,image_ocr_found_nothing(x1)
+Town_Hall_Ethics_AI_ML,17,3,382,4,image_ocr_found_nothing(x2)
+Town_Hall_Ethics_AI_ML,18,3,215,3,image_ocr_found_nothing(x1)
+Town_Hall_Ethics_AI_ML,24,3,279,3,image_ocr_found_nothing(x1)
+Module4-FAIR-Presentation,1,3,241,5,image_ocr_found_nothing(x2)
+Module4-FAIR-Presentation,3,3,119,4,image_ocr_found_nothing(x1)
+Module4-FAIR-Presentation,4,3,212,7,image_ocr_found_nothing(x1)
+Module4-FAIR-Presentation,7,3,341,3,image_ocr_found_nothing(x1)
+Module4-FAIR-Presentation,8,3,357,3,image_ocr_found_nothing(x1)
+Module4-FAIR-Presentation,9,3,394,3,image_ocr_found_nothing(x1)
+Module4-FAIR-Presentation,10,3,231,3,image_ocr_found_nothing(x1)
+Module4-FAIR-Presentation,14,3,405,6,image_ocr_found_nothing(x2)
+DengueDrugRep,1,3,175,6,image_ocr_found_nothing(x3)
+DengueDrugRep,3,3,1966,4,image_ocr_found_nothing(x1)
+DengueDrugRep,4,3,1309,6,image_ocr_found_nothing(x1)
+DengueDrugRep,5,3,500,6,image_ocr_found_nothing(x2)
+DengueDrugRep,6,3,512,6,image_ocr_found_nothing(x1)
+DengueDrugRep,7,3,613,5,image_ocr_found_nothing(x1)
+DengueDrugRep,8,3,897,4,image_ocr_found_nothing(x1)
+DengueDrugRep,9,3,116,4,image_ocr_found_nothing(x1)
+DengueDrugRep,10,3,312,4,image_ocr_found_nothing(x1)
+DengueDrugRep,11,3,127,4,image_ocr_found_nothing(x1)
+DengueDrugRep,12,3,355,4,image_ocr_found_nothing(x1)
+DengueDrugRep,13,3,370,7,image_ocr_found_nothing(x1)
+DengueDrugRep,14,3,610,12,image_ocr_found_nothing(x2)
+DengueDrugRep,15,3,642,4,image_ocr_found_nothing(x1)
+Poster EMPLAC 2022. Jarrizon Quevedo,1,3,16619,39,image_ocr_found_nothing(x4)
+Hjálmar_29Oct_China,1,3,243,9,image_ocr_found_nothing(x3)
+Hjálmar_29Oct_China,3,3,103,6,image_ocr_found_nothing(x1)
+Hjálmar_29Oct_China,6,3,162,17,image_ocr_found_nothing(x1)
+Hjálmar_29Oct_China,8,3,344,17,image_ocr_found_nothing(x8)
+Hjálmar_29Oct_China,10,3,98,10,image_ocr_found_nothing(x1)
+Hjálmar_29Oct_China,16,3,116,7,image_ocr_found_nothing(x1)
+Hjálmar_29Oct_China,17,3,3475,11,image_ocr_found_nothing(x2)
+Hjálmar_29Oct_China,18,3,1317,17,image_ocr_found_nothing(x2)
+Hjálmar_29Oct_China,20,3,235,9,image_ocr_found_nothing(x1)
+Hjálmar_29Oct_China,22,3,1219,10,image_ocr_found_nothing(x1)
+Hjálmar_29Oct_China,24,3,300,11,image_ocr_found_nothing(x1)
+Hjálmar_29Oct_China,26,3,343,17,image_ocr_found_nothing(x9)
+Hjálmar_29Oct_China,28,3,137,9,image_ocr_found_nothing(x2)
+Hjálmar_29Oct_China,29,3,196,8,image_ocr_found_nothing(x1)
+Hjálmar_29Oct_China,30,3,208,13,image_ocr_found_nothing(x3)
+Hjálmar_29Oct_China,31,3,251,20,image_ocr_found_nothing(x3)
+Hjálmar_29Oct_China,32,3,184,16,image_ocr_found_nothing(x7)
+Hjálmar_29Oct_China,34,3,184,11,image_ocr_found_nothing(x2)
+Hjálmar_29Oct_China,40,3,166,19,image_ocr_found_nothing(x1)
+Hjálmar_29Oct_China,42,3,263,4,image_ocr_found_nothing(x1)
+Hjálmar_29Oct_China,43,3,253,10,image_ocr_found_nothing(x1)
+Hjálmar_29Oct_China,50,3,1994,6,image_ocr_found_nothing(x2)
+Hjálmar_29Oct_China,51,3,133,5,image_ocr_found_nothing(x1)
+OS_4_PhD_2019,1,3,223,4,image_ocr_found_nothing(x1)
+OS_4_PhD_2019,17,3,1360,10,image_ocr_found_nothing(x2)
+OS_4_PhD_2019,56,3,235,4,image_ocr_found_nothing(x1)
+OS_4_PhD_2019,61,3,171,4,image_ocr_found_nothing(x1)
+OS_4_PhD_2019,68,3,409,5,image_ocr_found_nothing(x1)
+OS_4_PhD_2019,69,3,2283,8,image_ocr_found_nothing(x1)
+OS_4_PhD_2019,70,3,283,3,image_ocr_found_nothing(x1)
+20180927_BMES_Platform_BAC_V6,1,3,621,6,image_ocr_found_nothing(x1)
+20180927_BMES_Platform_BAC_V6,2,3,922,15,image_ocr_found_nothing(x2)
+20180927_BMES_Platform_BAC_V6,3,3,661,13,image_ocr_found_nothing(x1)
+20180927_BMES_Platform_BAC_V6,4,3,820,16,image_ocr_found_nothing(x2)
+20180927_BMES_Platform_BAC_V6,5,3,180,9,image_ocr_found_nothing(x3)
+20180927_BMES_Platform_BAC_V6,7,3,665,36,image_ocr_found_nothing(x12)
+20180927_BMES_Platform_BAC_V6,8,3,483,28,image_ocr_found_nothing(x7)
+20180927_BMES_Platform_BAC_V6,9,3,166,5,image_ocr_found_nothing(x1)
+20180927_BMES_Platform_BAC_V6,11,3,513,4,image_ocr_found_nothing(x1)
+20180927_BMES_Platform_BAC_V6,12,3,712,13,image_ocr_found_nothing(x6)
+20180927_BMES_Platform_BAC_V6,13,3,688,37,image_ocr_found_nothing(x12)
+LLMs_BIA_v10,1,3,798,12,image_ocr_found_nothing(x1)
+LLMs_BIA_v10,7,3,426,8,image_ocr_found_nothing(x1)
+LLMs_BIA_v10,8,3,162,6,image_ocr_found_nothing(x2)
+LLMs_BIA_v10,9,3,1827,7,image_ocr_found_nothing(x1)
+LLMs_BIA_v10,11,3,1336,9,image_ocr_found_nothing(x1)
+LLMs_BIA_v10,12,3,1164,7,image_ocr_found_nothing(x2)
+LLMs_BIA_v10,13,3,878,5,image_ocr_found_nothing(x1)
+LLMs_BIA_v10,14,3,2887,9,image_ocr_found_nothing(x1)
+LLMs_BIA_v10,15,3,97,4,image_ocr_found_nothing(x1)
+LLMs_BIA_v10,16,3,1674,11,image_ocr_found_nothing(x2)
+LLMs_BIA_v10,17,3,1273,8,image_ocr_found_nothing(x1)
+LLMs_BIA_v10,18,3,733,4,image_ocr_found_nothing(x1)
+LLMs_BIA_v10,19,3,1184,6,image_ocr_found_nothing(x1)
+LLMs_BIA_v10,20,3,1309,5,image_ocr_found_nothing(x1)
+LLMs_BIA_v10,21,3,697,9,image_ocr_found_nothing(x1)
+LLMs_BIA_v10,22,3,2192,7,image_ocr_found_nothing(x1)
+LLMs_BIA_v10,23,3,1259,11,image_ocr_found_nothing(x1)
+LLMs_BIA_v10,26,3,3621,19,image_ocr_found_nothing(x3)
+LLMs_BIA_v10,27,3,3769,14,image_ocr_found_nothing(x1)
+LLMs_BIA_v10,28,3,3608,19,image_ocr_found_nothing(x5)
+LLMs_BIA_v10,38,3,372,7,image_ocr_found_nothing(x3)
+LLMs_BIA_v10,39,3,1694,27,image_ocr_found_nothing(x5)
+Buy AMX Pitch (December 2016),6,3,357,4,image_ocr_found_nothing(x1)
+6. Attention models,5,3,266,6,image_ocr_found_nothing(x2)
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,1,3,231,5,image_ocr_found_nothing(x1)
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,2,3,426,9,image_ocr_found_nothing(x4)
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,10,3,177,4,image_ocr_found_nothing(x1)
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,12,3,295,9,image_ocr_found_nothing(x2)
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,18,3,494,5,image_ocr_found_nothing(x1)
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,19,3,961,5,image_ocr_found_nothing(x1)
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,22,3,207,4,image_ocr_found_nothing(x1)
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,29,3,585,10,image_ocr_found_nothing(x1)
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,34,3,92,3,image_ocr_found_nothing(x1)
+ESR12 - Sina DARBAN - Turino Oral Presentation,1,3,401,6,image_ocr_found_nothing(x1)
+ESR12 - Sina DARBAN - Turino Oral Presentation,4,3,569,8,image_ocr_found_nothing(x2)
+ESR12 - Sina DARBAN - Turino Oral Presentation,9,3,131,9,image_ocr_found_nothing(x2)
+AREA academy- Module 3.0,1,3,195,4,image_ocr_found_nothing(x1)
+AREA academy- Module 3.0,3,3,202,4,image_ocr_found_nothing(x1)
+AREA academy- Module 3.0,4,3,103,2,image_ocr_found_nothing(x1)
+Teología del Euroextractivismo Minero El caso de Andalucía (España),3,3,185,17,image_ocr_found_nothing(x13)
+Teología del Euroextractivismo Minero El caso de Andalucía (España),6,3,129,3,image_ocr_found_nothing(x1)
+Teología del Euroextractivismo Minero El caso de Andalucía (España),10,3,846,11,image_ocr_found_nothing(x2)
+Teología del Euroextractivismo Minero El caso de Andalucía (España),11,3,812,6,image_ocr_found_nothing(x2)
+Teología del Euroextractivismo Minero El caso de Andalucía (España),12,3,444,7,image_ocr_found_nothing(x1)
+Teología del Euroextractivismo Minero El caso de Andalucía (España),13,3,131,4,image_ocr_found_nothing(x2)
+Teología del Euroextractivismo Minero El caso de Andalucía (España),16,3,341,8,image_ocr_found_nothing(x4)
+Teología del Euroextractivismo Minero El caso de Andalucía (España),18,3,122,4,image_ocr_found_nothing(x1)
+ReERUA_Module1_Introduction-Gender-Equality_presentation,5,3,86,2,image_ocr_found_nothing(x1)
+ReERUA_Module1_Introduction-Gender-Equality_presentation,11,3,239,7,image_ocr_found_nothing(x3)
+ReERUA_Module1_Introduction-Gender-Equality_presentation,14,3,451,2,image_ocr_found_nothing(x1)
+ReERUA_Module1_Introduction-Gender-Equality_presentation,23,3,172,5,image_ocr_found_nothing(x2)
+Modulo_12_EOSC,1,3,222,6,image_ocr_found_nothing(x2)
+LLMs_BIA_v11,1,3,848,12,image_ocr_found_nothing(x1)
+LLMs_BIA_v11,3,3,1827,7,image_ocr_found_nothing(x1)
+LLMs_BIA_v11,7,3,642,8,image_ocr_found_nothing(x3)
+LLMs_BIA_v11,11,3,230,15,image_ocr_found_nothing(x1)
+LLMs_BIA_v11,16,3,422,8,image_ocr_found_nothing(x1)
+LLMs_BIA_v11,25,3,3621,19,image_ocr_found_nothing(x3)
+LLMs_BIA_v11,26,3,3769,14,image_ocr_found_nothing(x1)
+LLMs_BIA_v11,27,3,3608,19,image_ocr_found_nothing(x5)
+LLMs_BIA_v11,33,3,560,8,image_ocr_found_nothing(x1)
+LLMs_BIA_v11,39,3,291,4,image_ocr_found_nothing(x1)
+LLMs_BIA_v11,40,3,1694,27,image_ocr_found_nothing(x5)
+Los recursos de información ER,8,3,867,4,image_ocr_found_nothing(x2)
+Los recursos de información ER,9,3,666,3,image_ocr_found_nothing(x1)
+Los recursos de información ER,18,3,622,6,image_ocr_found_nothing(x2)
+Los recursos de información ER,21,3,1080,4,image_ocr_found_nothing(x1)
+Poster GreenChemCo_2,1,3,5543,16,image_ocr_found_nothing(x2)
+Kaier Publikationskosten Folien,1,3,398,5,image_ocr_found_nothing(x1)
+Kaier Publikationskosten Folien,29,3,269,11,image_ocr_found_nothing(x1)
+Kaier Publikationskosten Folien,44,3,231,6,image_ocr_found_nothing(x2)
+eddi-repeated-variables,1,3,417,6,image_ocr_found_nothing(x1)
+1. Introduction to deep learning,9,3,186,10,image_ocr_found_nothing(x2)
+1. Introduction to deep learning,13,3,137,6,image_ocr_found_nothing(x2)
+1. Introduction to deep learning,15,3,217,5,image_ocr_found_nothing(x1)
+1. Introduction to deep learning,16,3,207,5,image_ocr_found_nothing(x2)
+1. Introduction to deep learning,18,3,161,4,image_ocr_found_nothing(x2)
+1. Introduction to deep learning,19,3,386,6,image_ocr_found_nothing(x1)
+1. Introduction to deep learning,21,3,290,6,image_ocr_found_nothing(x1)
+1. Introduction to deep learning,22,3,389,4,image_ocr_found_nothing(x1)
+1. Introduction to deep learning,25,3,385,4,image_ocr_found_nothing(x1)
+1. Introduction to deep learning,27,3,333,7,image_ocr_found_nothing(x2)
+Benjamin - Improving metadata of the ESS,7,3,5121,24,image_ocr_found_nothing(x1)
+Benjamin - Improving metadata of the ESS,12,3,13767,26,image_ocr_found_nothing(x2)
+Benjamin - Improving metadata of the ESS,13,3,4585,10,image_ocr_found_nothing(x2)
+Benjamin - Improving metadata of the ESS,23,3,1499,7,image_ocr_found_nothing(x2)
+Benjamin - Improving metadata of the ESS,32,3,342,5,image_ocr_found_nothing(x2)
+Software at NASA_ Lightning Breakout 1B,2,3,326,16,image_ocr_found_nothing(x5)
+Software at NASA_ Lightning Breakout 1B,3,3,655,12,image_ocr_found_nothing(x2)
+Software at NASA_ Lightning Breakout 1B,4,3,1199,5,image_ocr_found_nothing(x2)
+Software at NASA_ Lightning Breakout 1B,6,3,1310,8,image_ocr_found_nothing(x4)
+Software at NASA_ Lightning Breakout 1B,7,3,696,6,image_ocr_found_nothing(x2)
+Software at NASA_ Lightning Breakout 1B,8,3,245,7,image_ocr_found_nothing(x2)
+Software at NASA_ Lightning Breakout 1B,10,3,273,6,image_ocr_found_nothing(x3)
+Software at NASA_ Lightning Breakout 1B,11,3,450,5,image_ocr_found_nothing(x1)
+D3.1.2 Diagrams,6,3,204,14,image_ocr_found_nothing(x2)
+D3.1.2 Diagrams,9,3,119,19,image_ocr_found_nothing(x4)
+ONLINE_4_INNOVATIVE_INOS_cases_Tallinn University (1),2,3,670,3,image_ocr_found_nothing(x1)
+ONLINE_4_INNOVATIVE_INOS_cases_Tallinn University (1),3,3,1272,4,image_ocr_found_nothing(x1)
+Experiencia del Control BibliogrÃ¡fico en la BVS EnfermerÃ_a Colombia,2,3,634,10,image_ocr_found_nothing(x2)
+Experiencia del Control BibliogrÃ¡fico en la BVS EnfermerÃ_a Colombia,5,3,579,8,image_ocr_found_nothing(x3)
+Experiencia del Control BibliogrÃ¡fico en la BVS EnfermerÃ_a Colombia,9,3,540,11,image_ocr_found_nothing(x5)
+Experiencia del Control BibliogrÃ¡fico en la BVS EnfermerÃ_a Colombia,10,3,339,8,image_ocr_found_nothing(x3)
+JOBANDA SLIDES - 2023 FORM,1,3,175,4,image_ocr_found_nothing(x1)
+JOBANDA SLIDES - 2023 FORM,2,3,399,3,image_ocr_found_nothing(x1)
+JOBANDA SLIDES - 2023 FORM,4,3,395,4,image_ocr_found_nothing(x1)
+JOBANDA SLIDES - 2023 FORM,5,3,508,4,image_ocr_found_nothing(x1)
+JOBANDA SLIDES - 2023 FORM,8,3,476,3,image_ocr_found_nothing(x1)
+JOBANDA SLIDES - 2023 FORM,12,3,234,4,image_ocr_found_nothing(x2)
+JOBANDA SLIDES - 2023 FORM,14,3,212,4,image_ocr_found_nothing(x1)
+igraph,1,3,117,6,image_ocr_found_nothing(x2)
+igraph,2,3,97,6,image_ocr_found_nothing(x4)
+igraph,3,3,190,11,image_ocr_found_nothing(x4)
+igraph,5,3,180,10,image_ocr_found_nothing(x3)
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,5,3,3227,13,image_ocr_found_nothing(x3)
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,6,3,229,8,image_ocr_found_nothing(x2)
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,9,3,322,19,image_ocr_found_nothing(x4)
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,11,3,194,9,image_ocr_found_nothing(x1)
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,12,3,286,13,image_ocr_found_nothing(x3)
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,16,3,1210,16,image_ocr_found_nothing(x4)
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,19,3,370,12,image_ocr_found_nothing(x1)
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,22,3,258,8,image_ocr_found_nothing(x1)
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,26,3,192,12,image_ocr_found_nothing(x1)
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,28,3,772,19,image_ocr_found_nothing(x1)
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,31,3,230,7,image_ocr_found_nothing(x4)
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,32,3,911,21,image_ocr_found_nothing(x2)
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,33,3,1583,21,image_ocr_found_nothing(x2)
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,34,3,1984,11,image_ocr_found_nothing(x1)
+Sayantan_Ghosh_NanoNet_2023_Presentation,5,3,1022,7,image_ocr_found_nothing(x1)
+Sayantan_Ghosh_NanoNet_2023_Presentation,9,3,351,9,image_ocr_found_nothing(x1)
+Sayantan_Ghosh_NanoNet_2023_Presentation,15,3,1558,6,image_ocr_found_nothing(x1)
+Sayantan_Ghosh_NanoNet_2023_Presentation,16,3,1561,14,image_ocr_found_nothing(x1)
+Sayantan_Ghosh_NanoNet_2023_Presentation,18,3,983,10,image_ocr_found_nothing(x1)
+Sayantan_Ghosh_NanoNet_2023_Presentation,19,3,739,10,image_ocr_found_nothing(x1)
+Sayantan_Ghosh_NanoNet_2023_Presentation,23,3,579,6,image_ocr_found_nothing(x1)
+Sayantan_Ghosh_NanoNet_2023_Presentation,28,3,320,5,image_ocr_found_nothing(x1)
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,1,3,408,8,image_ocr_found_nothing(x2)
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,5,3,237,3,image_ocr_found_nothing(x1)
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,6,3,134,3,image_ocr_found_nothing(x1)
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,8,3,262,3,image_ocr_found_nothing(x1)
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,10,3,141,7,image_ocr_found_nothing(x2)
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,11,3,186,10,image_ocr_found_nothing(x3)
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,12,3,234,13,image_ocr_found_nothing(x4)
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,14,3,299,19,image_ocr_found_nothing(x6)
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,22,3,782,6,image_ocr_found_nothing(x1)
+sesióndiabetes3,2,3,391,3,image_ocr_found_nothing(x1)
+sesióndiabetes3,14,3,346,4,image_ocr_found_nothing(x1)
+sesióndiabetes3,17,3,399,3,image_ocr_found_nothing(x1)
+sesióndiabetes3,23,3,297,3,image_ocr_found_nothing(x1)
+sesióndiabetes3,27,3,362,3,image_ocr_found_nothing(x1)
+sesióndiabetes3,30,3,290,3,image_ocr_found_nothing(x1)
+Entity_Life_Cycle_in_Search-Centric_Knowledge_Graphs,10,3,975,11,image_ocr_found_nothing(x1)
+Open Source in Rubin Data Management,2,3,194,8,image_ocr_found_nothing(x3)
+Open Source in Rubin Data Management,3,3,320,6,image_ocr_found_nothing(x2)
+ICTP 23 Marine,1,3,199,3,image_ocr_found_nothing(x1)
+ICTP 23 Marine,2,3,1616,6,image_ocr_found_nothing(x2)
+ICTP 23 Marine,3,3,668,11,image_ocr_found_nothing(x6)
+ICTP 23 Marine,6,3,988,10,image_ocr_found_nothing(x1)
+KC4 presentation,2,3,475,3,image_ocr_found_nothing(x1)
+KC4 presentation,4,3,1071,8,image_ocr_found_nothing(x2)
+KC4 presentation,5,3,275,3,image_ocr_found_nothing(x1)
+KC4 presentation,6,3,1278,12,image_ocr_found_nothing(x1)
+KC4 presentation,11,3,475,8,image_ocr_found_nothing(x3)
+Lazzeri_Mod7,10,3,675,5,image_ocr_found_nothing(x1)
+KesteriteWorkshop_2022_Denmark_Talk_2_Zenodo-upload,1,3,579,8,image_ocr_found_nothing(x1)
+KesteriteWorkshop_2022_Denmark_Talk_2_Zenodo-upload,3,3,901,15,image_ocr_found_nothing(x1)
+KesteriteWorkshop_2022_Denmark_Talk_2_Zenodo-upload,4,3,730,12,image_ocr_found_nothing(x1)
+KesteriteWorkshop_2022_Denmark_Talk_2_Zenodo-upload,5,3,503,10,image_ocr_found_nothing(x4)
+KesteriteWorkshop_2022_Denmark_Talk_2_Zenodo-upload,6,3,168,6,image_ocr_found_nothing(x3)
+KesteriteWorkshop_2022_Denmark_Talk_2_Zenodo-upload,9,3,645,7,image_ocr_found_nothing(x4)
+KesteriteWorkshop_2022_Denmark_Talk_2_Zenodo-upload,11,3,2695,8,image_ocr_found_nothing(x1)
+Rachel_Harding_Creative_Commons_20180413,1,3,442,12,image_ocr_found_nothing(x5)
+Rachel_Harding_Creative_Commons_20180413,20,3,1085,8,image_ocr_found_nothing(x1)
+Rachel_Harding_Creative_Commons_20180413,26,3,288,6,image_ocr_found_nothing(x2)
+Rachel_Harding_Creative_Commons_20180413,28,3,348,12,image_ocr_found_nothing(x8)
+Rachel_Harding_Creative_Commons_20180413,29,3,386,10,image_ocr_found_nothing(x5)
+Rachel_Harding_Creative_Commons_20180413,30,3,807,11,image_ocr_found_nothing(x5)
+Rachel_Harding_Creative_Commons_20180413,31,3,2527,6,image_ocr_found_nothing(x1)
+Rachel_Harding_Creative_Commons_20180413,35,3,318,5,image_ocr_found_nothing(x3)
+NADDI 4-5,5,3,365,8,image_ocr_found_nothing(x2)
+NADDI 4-5,8,3,460,4,image_ocr_found_nothing(x2)
+NADDI 4-5,9,3,905,11,image_ocr_found_nothing(x8)
+NADDI 4-5,10,3,329,4,image_ocr_found_nothing(x1)
+NADDI 4-5,24,3,144,2,image_ocr_found_nothing(x1)
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,1,3,380,5,image_ocr_found_nothing(x1)
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,9,3,71,15,image_ocr_found_nothing(x9)
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,11,3,147,20,image_ocr_found_nothing(x9)
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,12,3,194,21,image_ocr_found_nothing(x9)
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,14,3,128,11,image_ocr_found_nothing(x5)
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,15,3,197,16,image_ocr_found_nothing(x5)
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,16,3,202,16,image_ocr_found_nothing(x5)
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,29,3,277,23,image_ocr_found_nothing(x5)
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,30,3,160,14,image_ocr_found_nothing(x5)
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,31,3,288,24,image_ocr_found_nothing(x5)
+ROMOR_Burnhill_Focus_ on_User,1,3,202,4,image_ocr_found_nothing(x1)
+ROMOR_Burnhill_Focus_ on_User,13,3,1301,5,image_ocr_found_nothing(x1)
+ROMOR_Burnhill_Focus_ on_User,18,3,643,4,image_ocr_found_nothing(x1)
+ROMOR_Burnhill_Focus_ on_User,37,3,358,9,image_ocr_found_nothing(x2)
+ROMOR_Burnhill_Focus_ on_User,38,3,428,13,image_ocr_found_nothing(x2)
+PPT St Andrews,1,3,165,3,image_ocr_found_nothing(x1)
+PPT St Andrews,11,3,107,3,image_ocr_found_nothing(x1)
+PPT St Andrews,17,3,134,2,image_ocr_found_nothing(x1)
+Workshop Biodemography_ITA,1,3,465,12,image_ocr_found_nothing(x1)
+Workshop Biodemography_ITA,2,3,144,8,image_ocr_found_nothing(x1)
+Workshop Biodemography_ITA,21,3,351,10,image_ocr_found_nothing(x1)
+Workshop Biodemography_ITA,25,3,576,21,image_ocr_found_nothing(x10)
+Workshop Biodemography_ITA,34,3,878,5,image_ocr_found_nothing(x1)
+Workshop Biodemography_ITA,40,3,3048,5,image_ocr_found_nothing(x1)
+Workshop Biodemography_ITA,49,3,956,9,image_ocr_found_nothing(x1)
+ARDC_Pidapalooza_Simons_Duncan_2020,2,0,165,1,
+ARDC_Pidapalooza_Simons_Duncan_2020,3,0,1585,2,
+ARDC_Pidapalooza_Simons_Duncan_2020,5,0,357,2,
+ARDC_Pidapalooza_Simons_Duncan_2020,7,0,202,2,
+magCEvNS2018_mahapatra-rupak,4,0,460,4,
+magCEvNS2018_mahapatra-rupak,13,0,1114,4,
+magCEvNS2018_mahapatra-rupak,23,0,1102,2,
+Bösmann EKC2023,4,0,969,3,
+Bösmann EKC2023,5,0,426,3,
+Bösmann EKC2023,6,0,207,8,
+Bösmann EKC2023,9,0,218,9,
+Bösmann EKC2023,11,0,237,3,
+Bösmann EKC2023,13,0,478,2,
+Bösmann EKC2023,15,0,277,2,
+Bösmann EKC2023,16,0,406,2,
+AEROdays2019_Innovative manufacturing and MRO_Digitalization of maint operations,2,0,1001,2,
+AEROdays2019_Innovative manufacturing and MRO_Digitalization of maint operations,4,0,719,4,
+AEROdays2019_Innovative manufacturing and MRO_Digitalization of maint operations,5,0,412,2,
+AEROdays2019_Innovative manufacturing and MRO_Digitalization of maint operations,6,0,273,2,
+AEROdays2019_Innovative manufacturing and MRO_Digitalization of maint operations,7,0,137,2,
+Using IIIF to teach Digital Humanities (1) (2),2,0,290,3,
+Using IIIF to teach Digital Humanities (1) (2),4,0,545,3,
+Using IIIF to teach Digital Humanities (1) (2),5,0,120,2,
+Using IIIF to teach Digital Humanities (1) (2),7,0,142,2,
+Using IIIF to teach Digital Humanities (1) (2),9,0,309,2,
+Using IIIF to teach Digital Humanities (1) (2),10,0,134,6,
+Using IIIF to teach Digital Humanities (1) (2),11,0,1333,2,
+Using IIIF to teach Digital Humanities (1) (2),12,0,138,1,
+Using IIIF to teach Digital Humanities (1) (2),13,0,376,2,
+Using IIIF to teach Digital Humanities (1) (2),14,0,1385,2,
+Using IIIF to teach Digital Humanities (1) (2),15,0,324,2,
+Using IIIF to teach Digital Humanities (1) (2),16,0,404,3,
+Using IIIF to teach Digital Humanities (1) (2),17,0,299,2,
+Using IIIF to teach Digital Humanities (1) (2),18,0,348,2,
+Using IIIF to teach Digital Humanities (1) (2),19,0,1017,2,
+Using IIIF to teach Digital Humanities (1) (2),21,0,561,2,
+Using IIIF to teach Digital Humanities (1) (2),22,0,264,2,
+Using IIIF to teach Digital Humanities (1) (2),23,0,2005,13,
+Using IIIF to teach Digital Humanities (1) (2),24,0,1919,13,
+Using IIIF to teach Digital Humanities (1) (2),25,0,1768,13,
+História e Evolução do Lean Manufacturing,2,0,425,2,
+História e Evolução do Lean Manufacturing,3,0,377,2,
+História e Evolução do Lean Manufacturing,4,0,404,2,
+História e Evolução do Lean Manufacturing,5,0,428,2,
+História e Evolução do Lean Manufacturing,6,0,464,2,
+História e Evolução do Lean Manufacturing,7,0,524,2,
+História e Evolução do Lean Manufacturing,8,0,481,2,
+História e Evolução do Lean Manufacturing,9,0,497,2,
+História e Evolução do Lean Manufacturing,10,0,521,2,
+História e Evolução do Lean Manufacturing,11,0,512,2,
+História e Evolução do Lean Manufacturing,12,0,520,2,
+História e Evolução do Lean Manufacturing,13,0,545,2,
+História e Evolução do Lean Manufacturing,14,0,574,2,
+História e Evolução do Lean Manufacturing,15,0,612,2,
+História e Evolução do Lean Manufacturing,16,0,569,2,
+História e Evolução do Lean Manufacturing,17,0,584,2,
+História e Evolução do Lean Manufacturing,18,0,272,1,
+No_01_welcome_querylanguages4humanities,1,0,1116,6,
+No_01_welcome_querylanguages4humanities,3,0,161,2,
+No_01_welcome_querylanguages4humanities,4,0,228,2,
+No_01_welcome_querylanguages4humanities,5,0,174,2,
+No_01_welcome_querylanguages4humanities,6,0,488,3,
+No_01_welcome_querylanguages4humanities,7,0,910,2,
+No_01_welcome_querylanguages4humanities,8,0,105,2,
+No_01_welcome_querylanguages4humanities,9,0,258,2,
+No_01_welcome_querylanguages4humanities,10,0,458,2,
+No_01_welcome_querylanguages4humanities,11,0,347,4,
+Präsentation_WasBedeutetOpenAccess,2,0,268,2,
+Präsentation_WasBedeutetOpenAccess,6,0,436,12,
+Präsentation_WasBedeutetOpenAccess,13,0,653,2,
+Präsentation_WasBedeutetOpenAccess,14,0,583,3,
+Präsentation_WasBedeutetOpenAccess,15,0,361,2,
+Präsentation_WasBedeutetOpenAccess,17,0,328,3,
+Präsentation_WasBedeutetOpenAccess,18,0,429,9,
+Präsentation_WasBedeutetOpenAccess,20,0,304,6,
+FootWork_Closing_VLAB,8,0,176,4,
+FootWork_Closing_VLAB,12,0,337,6,
+FootWork_Closing_VLAB,14,0,348,4,
+FootWork_Closing_VLAB,15,0,272,4,
+PPT_Vcospiled Yenny Aman Serah,1,0,7240,9,
+PosterArkive_DEF2,1,0,1414,1,
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,1,0,125,1,
+ERROR_presentation_4214,1,0,230,4,
+ERROR_presentation_4214,2,0,480,2,
+ERROR_presentation_4214,3,0,472,2,
+ERROR_presentation_4214,4,0,571,2,
+ERROR_presentation_4214,6,0,390,2,
+ERROR_presentation_4214,7,0,294,2,
+ERROR_presentation_4214,8,0,301,3,
+ERROR_presentation_4214,9,0,318,3,
+ERROR_presentation_4214,10,0,367,3,
+ERROR_presentation_4214,11,0,399,2,
+ERROR_presentation_4214,12,0,312,2,
+ERROR_presentation_4214,13,0,740,5,
+ERROR_presentation_4214,14,0,656,5,
+ERROR_presentation_4214,15,0,593,5,
+ERROR_presentation_4214,16,0,665,5,
+ERROR_presentation_4214,17,0,739,5,
+ERROR_presentation_4214,18,0,347,2,
+uaw_2022,2,0,464,1,
+uaw_2022,4,0,607,1,
+uaw_2022,5,0,391,1,
+uaw_2022,6,0,238,1,
+uaw_2022,7,0,117,3,
+uaw_2022,8,0,217,4,
+uaw_2022,9,0,377,3,
+uaw_2022,10,0,274,2,
+uaw_2022,11,0,324,4,
+uaw_2022,12,0,384,5,
+uaw_2022,13,0,201,2,
+Design of Coal Handling ,1,0,114,2,
+Design of Coal Handling ,2,0,116,10,
+Design of Coal Handling ,5,0,199,4,
+Design of Coal Handling ,6,0,204,4,
+Design of Coal Handling ,7,0,341,10,
+Design of Coal Handling ,8,0,155,6,
+Design of Coal Handling ,10,0,458,3,
+Design of Coal Handling ,11,0,208,3,
+Design of Coal Handling ,12,0,114,8,
+Design of Coal Handling ,16,0,357,3,
+Design of Coal Handling ,17,0,397,3,
+Design of Coal Handling ,18,0,349,3,
+Design of Coal Handling ,20,0,197,3,
+chrisdone_padua18_final,6,0,253,4,
+chrisdone_padua18_final,7,0,219,5,
+chrisdone_padua18_final,8,0,158,5,
+chrisdone_padua18_final,9,0,220,6,
+chrisdone_padua18_final,10,0,286,5,
+chrisdone_padua18_final,11,0,175,3,
+chrisdone_padua18_final,12,0,155,2,
+chrisdone_padua18_final,13,0,5349,11,
+chrisdone_padua18_final,18,0,358,5,
+chrisdone_padua18_final,19,0,218,4,
+chrisdone_padua18_final,20,0,308,4,
+chrisdone_padua18_final,21,0,360,6,
+chrisdone_padua18_final,22,0,297,7,
+chrisdone_padua18_final,23,0,410,8,
+chrisdone_padua18_final,24,0,281,8,
+chrisdone_padua18_final,25,0,360,5,
+chrisdone_padua18_final,26,0,185,4,
+chrisdone_padua18_final,27,0,200,4,
+chrisdone_padua18_final,28,0,257,5,
+chrisdone_padua18_final,29,0,187,4,
+chrisdone_padua18_final,32,0,182,3,
+chrisdone_padua18_final,34,0,239,5,
+chrisdone_padua18_final,35,0,226,4,
+chrisdone_padua18_final,36,0,456,2,
+chrisdone_padua18_final,37,0,491,2,
+5-10 11A 215 DuaneNash,2,0,390,4,
+5-10 11A 215 DuaneNash,6,0,1507,9,
+5-10 11A 215 DuaneNash,18,0,632,2,
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,1,0,167,1,
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,5,0,455,7,
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,10,0,8243,2,
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,11,0,5447,2,
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,18,0,194,3,
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,19,0,300,10,
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,24,0,302,3,
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,25,0,1450,6,
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,26,0,105,2,
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,27,0,291,5,
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,32,0,168,4,
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,33,0,208,4,
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,34,0,497,5,
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,35,0,3182,4,
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,36,0,698,2,
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,39,0,367,4,
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,41,0,310,2,
+2021-06-08+10_Praesentation_TTT_Universitaeten,1,0,399,4,
+2021-06-08+10_Praesentation_TTT_Universitaeten,3,0,347,3,
+2021-06-08+10_Praesentation_TTT_Universitaeten,5,0,601,8,
+2021-06-08+10_Praesentation_TTT_Universitaeten,9,0,351,3,
+2021-06-08+10_Praesentation_TTT_Universitaeten,10,0,245,3,
+2021-06-08+10_Praesentation_TTT_Universitaeten,11,0,218,3,
+2021-06-08+10_Praesentation_TTT_Universitaeten,12,0,319,4,
+2021-06-08+10_Praesentation_TTT_Universitaeten,15,0,172,4,
+2021-06-08+10_Praesentation_TTT_Universitaeten,21,0,313,3,
+2021-06-08+10_Praesentation_TTT_Universitaeten,22,0,689,4,
+2021-06-08+10_Praesentation_TTT_Universitaeten,25,0,363,3,
+2021-06-08+10_Praesentation_TTT_Universitaeten,26,0,501,3,
+2021-06-08+10_Praesentation_TTT_Universitaeten,28,0,369,4,
+2021-06-08+10_Praesentation_TTT_Universitaeten,29,0,285,4,
+2021-06-08+10_Praesentation_TTT_Universitaeten,30,0,532,5,
+2021-06-08+10_Praesentation_TTT_Universitaeten,33,0,418,4,
+2021-06-08+10_Praesentation_TTT_Universitaeten,35,0,383,6,
+2021-06-08+10_Praesentation_TTT_Universitaeten,36,0,269,3,
+2021-06-08+10_Praesentation_TTT_Universitaeten,38,0,496,4,
+2021-06-08+10_Praesentation_TTT_Universitaeten,39,0,368,3,
+2021-06-08+10_Praesentation_TTT_Universitaeten,41,0,303,3,
+2021-06-08+10_Praesentation_TTT_Universitaeten,44,0,364,4,
+2021-06-08+10_Praesentation_TTT_Universitaeten,45,0,443,4,
 pharma_complex_dashboards_set,1,0,296,6,
 pharma_complex_dashboards_set,2,0,367,6,
 pharma_complex_dashboards_set,3,0,387,6,
+IGSN JSON HACK,2,0,256,3,
+IGSN JSON HACK,3,0,510,2,
+IGSN JSON HACK,5,0,405,7,
+IGSN JSON HACK,6,0,414,4,
+IGSN JSON HACK,7,0,488,4,
+IGSN JSON HACK,8,0,750,4,
+IGSN JSON HACK,9,0,1100,5,
+IGSN JSON HACK,10,0,795,3,
+IGSN JSON HACK,11,0,807,3,
+IGSN JSON HACK,12,0,436,2,
+MSWCXslides_Nov2023,1,0,128,2,
+MSWCXslides_Nov2023,2,0,595,7,
+MSWCXslides_Nov2023,3,0,807,15,
+MSWCXslides_Nov2023,5,0,349,6,
+MSWCXslides_Nov2023,6,0,1447,6,
+MSWCXslides_Nov2023,8,0,881,6,
+MSWCXslides_Nov2023,9,0,618,11,
+MSWCXslides_Nov2023,11,0,1000,3,
+MSWCXslides_Nov2023,13,0,962,2,
 labeled samples,1,0,158,10,
 labeled samples,3,0,153,6,
 labeled samples,5,0,260,6,
@@ -45,5 +789,1098 @@ labeled samples,47,0,151,11,
 labeled samples,48,0,411,3,
 labeled samples,49,0,232,6,
 labeled samples,50,0,201,8,
+For Sarajevo_ Combating harassment,2,0,527,3,
+For Sarajevo_ Combating harassment,4,0,665,18,
+For Sarajevo_ Combating harassment,5,0,257,2,
+For Sarajevo_ Combating harassment,6,0,361,10,
+For Sarajevo_ Combating harassment,7,0,152,6,
+For Sarajevo_ Combating harassment,9,0,379,13,
+For Sarajevo_ Combating harassment,10,0,279,3,
+For Sarajevo_ Combating harassment,11,0,578,14,
+Module 5 - Editor Reviewer Author Webinar - Data and Software,2,0,481,3,
+Module 5 - Editor Reviewer Author Webinar - Data and Software,4,0,1928,1,
+Module 5 - Editor Reviewer Author Webinar - Data and Software,5,0,1790,3,
+Module 5 - Editor Reviewer Author Webinar - Data and Software,6,0,245,3,
+Module 5 - Editor Reviewer Author Webinar - Data and Software,7,0,239,4,
+Module 5 - Editor Reviewer Author Webinar - Data and Software,8,0,722,3,
+Module 5 - Editor Reviewer Author Webinar - Data and Software,9,0,698,1,
+Module 5 - Editor Reviewer Author Webinar - Data and Software,10,0,276,4,
+Module 5 - Editor Reviewer Author Webinar - Data and Software,11,0,476,9,
+Module 5 - Editor Reviewer Author Webinar - Data and Software,12,0,155,2,
+Module 5 - Editor Reviewer Author Webinar - Data and Software,13,0,266,2,
+Module 5 - Editor Reviewer Author Webinar - Data and Software,14,0,266,2,
+Module 5 - Editor Reviewer Author Webinar - Data and Software,15,0,209,2,
+Module 5 - Editor Reviewer Author Webinar - Data and Software,19,0,606,4,
+ReproducibleComputationalEnvironment,1,0,455,3,
+ReproducibleComputationalEnvironment,3,0,544,3,
+ReproducibleComputationalEnvironment,4,0,142,3,
+ReproducibleComputationalEnvironment,5,0,276,4,
+ReproducibleComputationalEnvironment,9,0,721,2,
+ReproducibleComputationalEnvironment,10,0,785,3,
+ReproducibleComputationalEnvironment,11,0,892,4,
+ReproducibleComputationalEnvironment,12,0,334,3,
+ReproducibleComputationalEnvironment,13,0,218,2,
+ReproducibleComputationalEnvironment,14,0,2102,2,
+ReproducibleComputationalEnvironment,15,0,1365,3,
+ReproducibleComputationalEnvironment,17,0,948,2,
+ReproducibleComputationalEnvironment,18,0,470,2,
+ReproducibleComputationalEnvironment,19,0,256,3,
+ReproducibleComputationalEnvironment,20,0,1510,3,
+ReproducibleComputationalEnvironment,22,0,1314,2,
+ReproducibleComputationalEnvironment,23,0,2217,2,
+ReproducibleComputationalEnvironment,24,0,1141,2,
+ReproducibleComputationalEnvironment,25,0,1819,2,
+ReproducibleComputationalEnvironment,27,0,1719,2,
+ReproducibleComputationalEnvironment,29,0,266,4,
+ReproducibleComputationalEnvironment,30,0,275,4,
+ReproducibleComputationalEnvironment,31,0,647,5,
+ReproducibleComputationalEnvironment,32,0,1214,5,
+ReproducibleComputationalEnvironment,33,0,1269,6,
+ReproducibleComputationalEnvironment,34,0,1380,5,
+ReproducibleComputationalEnvironment,35,0,1467,4,
+ReproducibleComputationalEnvironment,36,0,2778,5,
+ReproducibleComputationalEnvironment,37,0,293,3,
+ReproducibleComputationalEnvironment,39,0,1562,6,
+ReproducibleComputationalEnvironment,41,0,4046,3,
+ReproducibleComputationalEnvironment,42,0,16862,7,
+ReproducibleComputationalEnvironment,45,0,168,3,
+ReproducibleComputationalEnvironment,46,0,951,4,
+ReproducibleComputationalEnvironment,48,0,399,3,
+ReproducibleComputationalEnvironment,49,0,298,3,
+ReproducibleComputationalEnvironment,52,0,476,2,
+ReproducibleComputationalEnvironment,54,0,1296,2,
+ReproducibleComputationalEnvironment,55,0,1335,2,
+ReproducibleComputationalEnvironment,56,0,1668,2,
+ReproducibleComputationalEnvironment,57,0,1585,2,
+ReproducibleComputationalEnvironment,58,0,1515,2,
+ReproducibleComputationalEnvironment,59,0,292,3,
+Overconfidence and Cognitive Dissonance Behavior in the Pension,1,0,273,2,
+Overconfidence and Cognitive Dissonance Behavior in the Pension,2,0,1150,5,
+Overconfidence and Cognitive Dissonance Behavior in the Pension,3,0,1276,4,
+Overconfidence and Cognitive Dissonance Behavior in the Pension,4,0,701,4,
+Overconfidence and Cognitive Dissonance Behavior in the Pension,5,0,1927,11,
+Overconfidence and Cognitive Dissonance Behavior in the Pension,6,0,1499,6,
+Overconfidence and Cognitive Dissonance Behavior in the Pension,7,0,1814,6,
+Overconfidence and Cognitive Dissonance Behavior in the Pension,8,0,1968,15,
+Overconfidence and Cognitive Dissonance Behavior in the Pension,9,0,1700,7,
+AREA academy- Module 4.1,2,0,661,4,
+AREA academy- Module 4.1,3,0,306,4,
+AREA academy- Module 4.1,4,0,431,4,
+AREA academy- Module 4.1,5,0,1059,3,
+AREA academy- Module 4.1,6,0,732,3,
+AREA academy- Module 4.1,8,0,429,3,
+AREA academy- Module 4.1,9,0,253,3,
+AREA academy- Module 4.1,10,0,161,3,
+AREA academy- Module 4.1,11,0,236,2,
+AREA academy- Module 4.1,12,0,287,3,
+AREA academy- Module 4.1,13,0,744,2,
+__sesion_5_calificadores_vision_general,22,0,390,1,
+ReproHack-ICCS_TTW,2,0,141,2,
+ReproHack-ICCS_TTW,3,0,1421,7,
+ReproHack-ICCS_TTW,5,0,449,4,
+ReproHack-ICCS_TTW,16,0,452,3,
+ReproHack-ICCS_TTW,17,0,471,5,
+ReproHack-ICCS_TTW,18,0,758,8,
+PPT_Evi Nurngaeni,1,0,133,2,
+PPT_Evi Nurngaeni,3,0,164,3,
+PPT_Evi Nurngaeni,4,0,215,2,
+PPT_Evi Nurngaeni,5,0,422,6,
+PPT_Evi Nurngaeni,8,0,239,2,
+PPT_Evi Nurngaeni,10,0,838,2,
+PPT Surya Darma Hafiz ICESE - Surya Darma Hafiz,1,0,578,1,
+PPT Surya Darma Hafiz ICESE - Surya Darma Hafiz,2,0,344,2,
+PPT Surya Darma Hafiz ICESE - Surya Darma Hafiz,5,0,193,2,
+PPT Surya Darma Hafiz ICESE - Surya Darma Hafiz,11,0,135,1,
+PPT Surya Darma Hafiz ICESE - Surya Darma Hafiz,13,0,109,1,
+PPT Surya Darma Hafiz ICESE - Surya Darma Hafiz,15,0,102,1,
+PPT Surya Darma Hafiz ICESE - Surya Darma Hafiz,19,0,317,2,
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,2,0,903,3,
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,4,0,571,4,
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,6,0,868,6,
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,7,0,851,3,
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,9,0,713,2,
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,10,0,863,3,
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,11,0,375,2,
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,12,0,579,6,
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,14,0,676,2,
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,18,0,874,3,
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,19,0,921,2,
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,20,0,289,2,
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,21,0,962,11,
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,22,0,608,2,
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,23,0,972,2,
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,26,0,189,2,
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,27,0,321,8,
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,29,0,940,3,
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,30,0,943,2,
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,31,0,714,2,
+La scienza aperta è la scienza fatta bene. Scienza e opinione corretta nell'età della rete,32,0,468,2,
+SCD UPHF_Ressources BU,2,0,326,2,
+SCD UPHF_Ressources BU,3,0,247,3,
+SCD UPHF_Ressources BU,5,0,896,5,
+SCD UPHF_Ressources BU,6,0,357,2,
+SCD UPHF_Ressources BU,7,0,663,2,
+SCD UPHF_Ressources BU,8,0,556,2,
+SCD UPHF_Ressources BU,9,0,1175,8,
+SCD UPHF_Ressources BU,10,0,789,2,
+SCD UPHF_Ressources BU,11,0,1635,5,
+SCD UPHF_Ressources BU,12,0,2293,4,
+SCD UPHF_Ressources BU,13,0,903,6,
+SCD UPHF_Ressources BU,14,0,896,4,
+SCD UPHF_Ressources BU,15,0,1742,3,
+SCD UPHF_Ressources BU,17,0,517,2,
+SCD UPHF_Ressources BU,18,0,744,6,
+SCD UPHF_Ressources BU,19,0,524,2,
+SCD UPHF_Ressources BU,21,0,2156,6,
+SCD UPHF_Ressources BU,22,0,3385,6,
+SCD UPHF_Ressources BU,23,0,2133,7,
+SCD UPHF_Ressources BU,25,0,751,4,
+SCD UPHF_Ressources BU,26,0,665,2,
+SCD UPHF_Ressources BU,27,0,231,3,
+220322 Webinar for WUR Data Stewards,1,0,173,2,
+220322 Webinar for WUR Data Stewards,2,0,304,7,
+220322 Webinar for WUR Data Stewards,3,0,417,2,
+220322 Webinar for WUR Data Stewards,5,0,499,18,
+220322 Webinar for WUR Data Stewards,6,0,1592,11,
+220322 Webinar for WUR Data Stewards,7,0,1124,7,
+220322 Webinar for WUR Data Stewards,16,0,1583,4,
+220322 Webinar for WUR Data Stewards,18,0,375,5,
+220322 Webinar for WUR Data Stewards,19,0,518,5,
+220322 Webinar for WUR Data Stewards,20,0,475,5,
+220322 Webinar for WUR Data Stewards,22,0,440,6,
+220322 Webinar for WUR Data Stewards,25,0,521,6,
+220322 Webinar for WUR Data Stewards,26,0,641,5,
+220322 Webinar for WUR Data Stewards,27,0,268,3,
+Outil-29,2,0,814,12,
+Outil-29,4,0,478,2,
+Whitaker_TPS_HDRUKTuringStudentInduction_September2020,1,0,174,3,
+Whitaker_TPS_HDRUKTuringStudentInduction_September2020,2,0,198,3,
+Whitaker_TPS_HDRUKTuringStudentInduction_September2020,5,0,671,2,
+Whitaker_TPS_HDRUKTuringStudentInduction_September2020,6,0,453,7,
+Whitaker_TPS_HDRUKTuringStudentInduction_September2020,7,0,347,4,
+Whitaker_TPS_HDRUKTuringStudentInduction_September2020,8,0,466,5,
+Whitaker_TPS_HDRUKTuringStudentInduction_September2020,9,0,247,2,
+Whitaker_TPS_HDRUKTuringStudentInduction_September2020,11,0,362,3,
+Whitaker_TPS_HDRUKTuringStudentInduction_September2020,13,0,865,3,
+Whitaker_TPS_HDRUKTuringStudentInduction_September2020,18,0,747,7,
+"Material and Life Service of the Septic Tank Have an Influence on the Biological Pollution of Groundwater (Case Study Kelurahan Pademangan Barat, North Jakarta) - NOVITA ANGGRAINI",1,0,389,3,
+"Material and Life Service of the Septic Tank Have an Influence on the Biological Pollution of Groundwater (Case Study Kelurahan Pademangan Barat, North Jakarta) - NOVITA ANGGRAINI",2,0,1165,3,
+"Material and Life Service of the Septic Tank Have an Influence on the Biological Pollution of Groundwater (Case Study Kelurahan Pademangan Barat, North Jakarta) - NOVITA ANGGRAINI",3,0,598,4,
+"Material and Life Service of the Septic Tank Have an Influence on the Biological Pollution of Groundwater (Case Study Kelurahan Pademangan Barat, North Jakarta) - NOVITA ANGGRAINI",4,0,592,4,
+"Material and Life Service of the Septic Tank Have an Influence on the Biological Pollution of Groundwater (Case Study Kelurahan Pademangan Barat, North Jakarta) - NOVITA ANGGRAINI",5,0,747,4,
+"Material and Life Service of the Septic Tank Have an Influence on the Biological Pollution of Groundwater (Case Study Kelurahan Pademangan Barat, North Jakarta) - NOVITA ANGGRAINI",6,0,595,3,
+"Material and Life Service of the Septic Tank Have an Influence on the Biological Pollution of Groundwater (Case Study Kelurahan Pademangan Barat, North Jakarta) - NOVITA ANGGRAINI",8,0,869,5,
+"Material and Life Service of the Septic Tank Have an Influence on the Biological Pollution of Groundwater (Case Study Kelurahan Pademangan Barat, North Jakarta) - NOVITA ANGGRAINI",9,0,821,5,
+"Material and Life Service of the Septic Tank Have an Influence on the Biological Pollution of Groundwater (Case Study Kelurahan Pademangan Barat, North Jakarta) - NOVITA ANGGRAINI",10,0,923,5,
+"Material and Life Service of the Septic Tank Have an Influence on the Biological Pollution of Groundwater (Case Study Kelurahan Pademangan Barat, North Jakarta) - NOVITA ANGGRAINI",11,0,700,4,
+"Material and Life Service of the Septic Tank Have an Influence on the Biological Pollution of Groundwater (Case Study Kelurahan Pademangan Barat, North Jakarta) - NOVITA ANGGRAINI",12,0,732,3,
+"Material and Life Service of the Septic Tank Have an Influence on the Biological Pollution of Groundwater (Case Study Kelurahan Pademangan Barat, North Jakarta) - NOVITA ANGGRAINI",13,0,190,3,
+LIAISON how to guides training module 1,2,0,451,3,
+LIAISON how to guides training module 1,4,0,340,2,
+LIAISON how to guides training module 1,5,0,424,3,
+LIAISON how to guides training module 1,8,0,298,4,
+LIAISON how to guides training module 1,9,0,833,3,
+LIAISON how to guides training module 1,10,0,427,5,
+LIAISON how to guides training module 1,13,0,521,2,
+LIAISON how to guides training module 1,16,0,517,3,
+2.2.1. The Primary Model Related to Teaching,1,0,1020,32,
+2.2.1. The Primary Model Related to Teaching,2,0,2337,35,
+kick_off_meeting_DBGI_KG,4,0,1329,3,
+kick_off_meeting_DBGI_KG,5,0,969,1,
+kick_off_meeting_DBGI_KG,6,0,222,2,
+kick_off_meeting_DBGI_KG,8,0,1078,5,
+webinar   1 ,5,0,177,2,
+webinar   1 ,8,0,179,3,
+webinar   1 ,9,0,266,2,
+webinar   1 ,10,0,477,2,
+webinar   1 ,11,0,492,3,
+webinar   1 ,12,0,543,2,
+24-02-2022_Apresentação ROSSIO na DGPC,2,0,741,1,
+24-02-2022_Apresentação ROSSIO na DGPC,3,0,1037,4,
+24-02-2022_Apresentação ROSSIO na DGPC,4,0,523,1,
+24-02-2022_Apresentação ROSSIO na DGPC,5,0,823,2,
+24-02-2022_Apresentação ROSSIO na DGPC,6,0,465,6,
+The Future Mobility Newspaper Template,1,0,808,18,
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,1,0,320,5,
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,2,0,538,1,
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,4,0,252,1,
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,5,0,539,4,
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,6,0,599,7,
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,7,0,912,3,
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,10,0,343,2,
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,11,0,1020,5,
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,12,0,1056,4,
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,13,0,1066,5,
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,14,0,408,3,
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,15,0,285,2,
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,16,0,438,2,
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,19,0,246,2,
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,32,0,2506,4,
+AR-0048 - PPT - ANALYSIS OF CHEMICAL QUALITY OF DRIED SENDFISH SEA CUCUMBER - Syahibul Kahfi Hamid (1),3,0,645,2,
+AR-0048 - PPT - ANALYSIS OF CHEMICAL QUALITY OF DRIED SENDFISH SEA CUCUMBER - Syahibul Kahfi Hamid (1),5,0,579,4,
+AR-0048 - PPT - ANALYSIS OF CHEMICAL QUALITY OF DRIED SENDFISH SEA CUCUMBER - Syahibul Kahfi Hamid (1),6,0,587,4,
+AR-0048 - PPT - ANALYSIS OF CHEMICAL QUALITY OF DRIED SENDFISH SEA CUCUMBER - Syahibul Kahfi Hamid (1),7,0,648,4,
+AR-0048 - PPT - ANALYSIS OF CHEMICAL QUALITY OF DRIED SENDFISH SEA CUCUMBER - Syahibul Kahfi Hamid (1),8,0,558,4,
+AR-0048 - PPT - ANALYSIS OF CHEMICAL QUALITY OF DRIED SENDFISH SEA CUCUMBER - Syahibul Kahfi Hamid (1),9,0,644,4,
+AR-0048 - PPT - ANALYSIS OF CHEMICAL QUALITY OF DRIED SENDFISH SEA CUCUMBER - Syahibul Kahfi Hamid (1),10,0,520,2,
+Town_Hall_Ethics_AI_ML,2,0,192,2,
+Town_Hall_Ethics_AI_ML,4,0,92,2,
+Town_Hall_Ethics_AI_ML,5,0,682,4,
+Town_Hall_Ethics_AI_ML,7,0,1230,4,
+Town_Hall_Ethics_AI_ML,8,0,669,3,
+Town_Hall_Ethics_AI_ML,9,0,396,9,
+Town_Hall_Ethics_AI_ML,10,0,515,3,
+Town_Hall_Ethics_AI_ML,11,0,469,3,
+Town_Hall_Ethics_AI_ML,12,0,360,3,
+Town_Hall_Ethics_AI_ML,20,0,195,2,
+Town_Hall_Ethics_AI_ML,21,0,534,2,
+Town_Hall_Ethics_AI_ML,22,0,211,2,
+Town_Hall_Ethics_AI_ML,23,0,353,3,
+Town_Hall_Ethics_AI_ML,25,0,145,1,
+Bagaimana menyusun expose atau proposal penelitian,2,0,280,3,
+Bagaimana menyusun expose atau proposal penelitian,3,0,411,3,
+Bagaimana menyusun expose atau proposal penelitian,4,0,503,3,
+Module4-FAIR-Presentation,2,0,316,2,
+Module4-FAIR-Presentation,5,0,311,2,
+Module4-FAIR-Presentation,11,0,413,2,
+Module4-FAIR-Presentation,12,0,777,2,
+Module4-FAIR-Presentation,13,0,337,2,
+Giaretta_IJDC_ConferencePapers_122-Presentation,1,0,337,3,
+Giaretta_IJDC_ConferencePapers_122-Presentation,2,0,317,2,
+Giaretta_IJDC_ConferencePapers_122-Presentation,3,0,628,2,
+Giaretta_IJDC_ConferencePapers_122-Presentation,4,0,885,2,
+Giaretta_IJDC_ConferencePapers_122-Presentation,6,0,542,2,
+Giaretta_IJDC_ConferencePapers_122-Presentation,7,0,175,2,
+Giaretta_IJDC_ConferencePapers_122-Presentation,8,0,637,2,
+Giaretta_IJDC_ConferencePapers_122-Presentation,9,0,412,2,
+Giaretta_IJDC_ConferencePapers_122-Presentation,10,0,599,2,
+Giaretta_IJDC_ConferencePapers_122-Presentation,11,0,2875,2,
+Giaretta_IJDC_ConferencePapers_122-Presentation,13,0,2916,7,
+Giaretta_IJDC_ConferencePapers_122-Presentation,14,0,1268,2,
+Giaretta_IJDC_ConferencePapers_122-Presentation,15,0,168,2,
+Giaretta_IJDC_ConferencePapers_122-Presentation,16,0,431,2,
+Giaretta_IJDC_ConferencePapers_122-Presentation,17,0,1584,3,
+Giaretta_IJDC_ConferencePapers_122-Presentation,18,0,357,2,
+DengueDrugRep,18,0,425,4,
+DengueDrugRep,19,0,808,5,
+DengueDrugRep,20,0,471,2,
+DengueDrugRep,21,0,2089,3,
+Hjálmar_29Oct_China,2,0,353,4,
+Hjálmar_29Oct_China,4,0,435,13,
+Hjálmar_29Oct_China,5,0,766,9,
+Hjálmar_29Oct_China,7,0,224,3,
+Hjálmar_29Oct_China,9,0,313,6,
+Hjálmar_29Oct_China,11,0,183,5,
+Hjálmar_29Oct_China,12,0,1282,6,
+Hjálmar_29Oct_China,13,0,1717,5,
+Hjálmar_29Oct_China,14,0,142,3,
+Hjálmar_29Oct_China,19,0,124,3,
+Hjálmar_29Oct_China,21,0,797,3,
+Hjálmar_29Oct_China,23,0,114,3,
+Hjálmar_29Oct_China,25,0,319,6,
+Hjálmar_29Oct_China,33,0,220,7,
+Hjálmar_29Oct_China,36,0,198,5,
+Hjálmar_29Oct_China,37,0,118,6,
+Hjálmar_29Oct_China,39,0,127,4,
+Hjálmar_29Oct_China,41,0,370,2,
+Hjálmar_29Oct_China,49,0,228,4,
+OS_4_PhD_2019,2,0,217,2,
+OS_4_PhD_2019,3,0,377,4,
+OS_4_PhD_2019,4,0,4140,5,
+OS_4_PhD_2019,5,0,154,2,
+OS_4_PhD_2019,7,0,147,4,
+OS_4_PhD_2019,8,0,253,3,
+OS_4_PhD_2019,9,0,756,5,
+OS_4_PhD_2019,12,0,152,2,
+OS_4_PhD_2019,13,0,604,3,
+OS_4_PhD_2019,14,0,186,2,
+OS_4_PhD_2019,15,0,3940,10,
+OS_4_PhD_2019,16,0,5520,6,
+OS_4_PhD_2019,18,0,4014,3,
+OS_4_PhD_2019,19,0,503,6,
+OS_4_PhD_2019,21,0,2475,12,
+OS_4_PhD_2019,22,0,855,4,
+OS_4_PhD_2019,23,0,1677,4,
+OS_4_PhD_2019,24,0,861,2,
+OS_4_PhD_2019,25,0,2441,4,
+OS_4_PhD_2019,27,0,170,2,
+OS_4_PhD_2019,28,0,1306,6,
+OS_4_PhD_2019,29,0,5413,4,
+OS_4_PhD_2019,30,0,230,1,
+OS_4_PhD_2019,31,0,136,4,
+OS_4_PhD_2019,32,0,181,2,
+OS_4_PhD_2019,33,0,2040,10,
+OS_4_PhD_2019,35,0,1545,6,
+OS_4_PhD_2019,36,0,1118,6,
+OS_4_PhD_2019,37,0,7029,6,
+OS_4_PhD_2019,38,0,880,5,
+OS_4_PhD_2019,39,0,440,4,
+OS_4_PhD_2019,40,0,323,3,
+OS_4_PhD_2019,41,0,309,6,
+OS_4_PhD_2019,43,0,8106,11,
+OS_4_PhD_2019,44,0,663,8,
+OS_4_PhD_2019,45,0,2145,5,
+OS_4_PhD_2019,46,0,401,6,
+OS_4_PhD_2019,48,0,1118,5,
+OS_4_PhD_2019,50,0,1469,7,
+OS_4_PhD_2019,51,0,203,4,
+OS_4_PhD_2019,52,0,1251,4,
+OS_4_PhD_2019,53,0,966,6,
+OS_4_PhD_2019,54,0,1328,6,
+OS_4_PhD_2019,55,0,2817,4,
+OS_4_PhD_2019,57,0,1893,3,
+OS_4_PhD_2019,59,0,138,2,
+OS_4_PhD_2019,60,0,273,2,
+OS_4_PhD_2019,63,0,283,3,
+OS_4_PhD_2019,64,0,2883,8,
+OS_4_PhD_2019,66,0,1121,4,
+OS_4_PhD_2019,67,0,1684,4,
+OS_4_PhD_2019,71,0,2228,7,
+OS_4_PhD_2019,72,0,250,4,
+cummings,1,0,220,2,
+cummings,3,0,5660,1,
+cummings,4,0,1120,2,
+cummings,5,0,968,4,
+cummings,6,0,650,2,
+cummings,7,0,988,3,
+cummings,8,0,5643,7,
+cummings,9,0,822,2,
+cummings,10,0,900,2,
+cummings,11,0,5935,5,
+cummings,12,0,22226,6,
+cummings,13,0,9398,8,
+cummings,14,0,288,2,
+cummings,15,0,536,1,
+cummings,16,0,837,2,
+cummings,17,0,1088,4,
+cummings,18,0,551,3,
+cummings,19,0,427,3,
+cummings,20,0,342,3,
+cummings,21,0,1101,2,
+20180927_BMES_Platform_BAC_V6,6,0,4282,8,
+20180927_BMES_Platform_BAC_V6,10,0,119,4,
+20180927_BMES_Platform_BAC_V6,14,0,346,4,
+20180927_BMES_Platform_BAC_V6,15,0,122,1,
+20180927_BMES_Platform_BAC_V6,16,0,1186,1,
+LLMs_BIA_v10,2,0,184,7,
+LLMs_BIA_v10,3,0,318,11,
+LLMs_BIA_v10,4,0,415,3,
+LLMs_BIA_v10,5,0,929,5,
+LLMs_BIA_v10,6,0,480,6,
+LLMs_BIA_v10,10,0,159,6,
+LLMs_BIA_v10,24,0,399,10,
+LLMs_BIA_v10,25,0,1295,8,
+LLMs_BIA_v10,29,0,27120,21,
+LLMs_BIA_v10,30,0,3807,5,
+LLMs_BIA_v10,31,0,4428,6,
+LLMs_BIA_v10,32,0,4245,6,
+LLMs_BIA_v10,33,0,4550,6,
+LLMs_BIA_v10,34,0,3450,7,
+LLMs_BIA_v10,35,0,1072,6,
+LLMs_BIA_v10,36,0,4033,14,
+LLMs_BIA_v10,37,0,1735,8,
+Buy AMX Pitch (December 2016),3,0,316,2,
+Buy AMX Pitch (December 2016),4,0,239,2,
+Buy AMX Pitch (December 2016),5,0,322,3,
+Buy AMX Pitch (December 2016),7,0,243,1,
+Buy AMX Pitch (December 2016),8,0,375,2,
+6. Attention models,2,0,398,1,
+6. Attention models,3,0,598,3,
+6. Attention models,4,0,390,3,
+6. Attention models,7,0,516,4,
+6. Attention models,8,0,512,6,
+6. Attention models,9,0,527,6,
+6. Attention models,10,0,463,4,
+6. Attention models,11,0,656,4,
+6. Attention models,12,0,414,5,
+6. Attention models,14,0,1159,5,
+6. Attention models,15,0,301,4,
+6. Attention models,16,0,294,5,
+6. Attention models,17,0,475,6,
+6. Attention models,18,0,458,8,
+6. Attention models,20,0,1430,4,
+6. Attention models,21,0,467,8,
+6. Attention models,22,0,778,8,
+6. Attention models,23,0,664,2,
+6. Attention models,24,0,299,3,
+6. Attention models,25,0,1443,4,
+6. Attention models,27,0,220,4,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,3,0,373,7,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,4,0,1158,5,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,5,0,954,5,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,8,0,265,5,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,9,0,414,2,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,11,0,1415,2,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,13,0,1287,3,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,14,0,246,4,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,15,0,692,7,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,16,0,497,5,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,17,0,621,5,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,20,0,310,4,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,21,0,490,11,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,23,0,471,2,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,25,0,235,2,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,26,0,406,5,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,27,0,415,5,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,28,0,222,4,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,30,0,729,5,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,31,0,784,5,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,32,0,415,6,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,33,0,365,3,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,37,0,390,3,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,38,0,249,4,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,40,0,676,2,
+EOSC-life-workshop-30-06-2023_FAIR-data-open-phytoliths,42,0,385,5,
+ESR12 - Sina DARBAN - Turino Oral Presentation,2,0,128,4,
+ESR12 - Sina DARBAN - Turino Oral Presentation,3,0,578,7,
+ESR12 - Sina DARBAN - Turino Oral Presentation,5,0,307,7,
+ESR12 - Sina DARBAN - Turino Oral Presentation,6,0,502,8,
+ESR12 - Sina DARBAN - Turino Oral Presentation,7,0,491,9,
+ESR12 - Sina DARBAN - Turino Oral Presentation,8,0,377,9,
+ESR12 - Sina DARBAN - Turino Oral Presentation,10,0,644,9,
+ESR12 - Sina DARBAN - Turino Oral Presentation,11,0,808,15,
+ESR12 - Sina DARBAN - Turino Oral Presentation,12,0,642,7,
+ESR12 - Sina DARBAN - Turino Oral Presentation,13,0,527,7,
+ESR12 - Sina DARBAN - Turino Oral Presentation,14,0,789,13,
+ESR12 - Sina DARBAN - Turino Oral Presentation,15,0,1027,10,
+ESR12 - Sina DARBAN - Turino Oral Presentation,16,0,645,4,
+ESR12 - Sina DARBAN - Turino Oral Presentation,17,0,540,2,
+ESR12 - Sina DARBAN - Turino Oral Presentation,18,0,1137,4,
+ESR12 - Sina DARBAN - Turino Oral Presentation,19,0,334,4,
+AREA academy- Module 3.0,2,0,173,8,
+AREA academy- Module 3.0,5,0,166,3,
+AREA academy- Module 3.0,6,0,93,3,
+Teología del Euroextractivismo Minero El caso de Andalucía (España),1,0,574,5,
+Teología del Euroextractivismo Minero El caso de Andalucía (España),2,0,688,5,
+Teología del Euroextractivismo Minero El caso de Andalucía (España),4,0,424,3,
+Teología del Euroextractivismo Minero El caso de Andalucía (España),5,0,218,3,
+Teología del Euroextractivismo Minero El caso de Andalucía (España),7,0,1016,3,
+Teología del Euroextractivismo Minero El caso de Andalucía (España),8,0,444,6,
+Teología del Euroextractivismo Minero El caso de Andalucía (España),9,0,1852,5,
+Teología del Euroextractivismo Minero El caso de Andalucía (España),14,0,254,4,
+Teología del Euroextractivismo Minero El caso de Andalucía (España),15,0,1629,5,
+Teología del Euroextractivismo Minero El caso de Andalucía (España),17,0,2050,4,
+ReERUA_Module1_Introduction-Gender-Equality_presentation,1,0,121,3,
+ReERUA_Module1_Introduction-Gender-Equality_presentation,3,0,142,1,
+ReERUA_Module1_Introduction-Gender-Equality_presentation,4,0,100,2,
+ReERUA_Module1_Introduction-Gender-Equality_presentation,7,0,549,3,
+ReERUA_Module1_Introduction-Gender-Equality_presentation,8,0,206,1,
+ReERUA_Module1_Introduction-Gender-Equality_presentation,9,0,446,2,
+ReERUA_Module1_Introduction-Gender-Equality_presentation,10,0,130,1,
+ReERUA_Module1_Introduction-Gender-Equality_presentation,13,0,261,1,
+ReERUA_Module1_Introduction-Gender-Equality_presentation,15,0,286,2,
+ReERUA_Module1_Introduction-Gender-Equality_presentation,16,0,210,1,
+ReERUA_Module1_Introduction-Gender-Equality_presentation,18,0,326,2,
+ReERUA_Module1_Introduction-Gender-Equality_presentation,19,0,383,2,
+ReERUA_Module1_Introduction-Gender-Equality_presentation,20,0,415,3,
+ReERUA_Module1_Introduction-Gender-Equality_presentation,21,0,708,3,
+ReERUA_Module1_Introduction-Gender-Equality_presentation,24,0,217,2,
+ReERUA_Module1_Introduction-Gender-Equality_presentation,25,0,225,1,
+ReERUA_Module1_Introduction-Gender-Equality_presentation,26,0,177,5,
+ReERUA_Module1_Introduction-Gender-Equality_presentation,28,0,497,3,
+ReERUA_Module1_Introduction-Gender-Equality_presentation,29,0,355,2,
+ReERUA_Module1_Introduction-Gender-Equality_presentation,31,0,246,10,
+Modulo_12_EOSC,2,0,152,2,
+Modulo_12_EOSC,3,0,2833,5,
+Modulo_12_EOSC,4,0,1432,3,
+Modulo_12_EOSC,5,0,1161,3,
+Modulo_12_EOSC,7,0,1007,4,
+Modulo_12_EOSC,8,0,313,2,
+Modulo_12_EOSC,10,0,1410,3,
+Modulo_12_EOSC,11,0,399,7,
+Modulo_12_EOSC,12,0,2082,5,
+Modulo_12_EOSC,13,0,1831,5,
+Modulo_12_EOSC,14,0,4001,6,
+Modulo_12_EOSC,15,0,1532,2,
+Modulo_12_EOSC,16,0,845,2,
+Modulo_12_EOSC,17,0,307,2,
+Modulo_12_EOSC,18,0,1168,4,
+Modulo_12_EOSC,19,0,1433,4,
+Modulo_12_EOSC,20,0,841,2,
+Modulo_12_EOSC,21,0,1381,3,
+Modulo_12_EOSC,22,0,914,2,
+Modulo_12_EOSC,23,0,1052,2,
+Modulo_12_EOSC,24,0,143,4,
+Modulo_12_EOSC,26,0,697,2,
+Modulo_12_EOSC,28,0,786,3,
+Modulo_12_EOSC,29,0,323,3,
+Modulo_12_EOSC,30,0,1342,2,
+Modulo_12_EOSC,34,0,474,2,
+Modulo_12_EOSC,35,0,735,2,
+Modulo_12_EOSC,36,0,1753,8,
+Modulo_12_EOSC,37,0,132,2,
+LLMs_BIA_v11,2,0,415,3,
+LLMs_BIA_v11,4,0,650,5,
+LLMs_BIA_v11,8,0,633,15,
+LLMs_BIA_v11,9,0,206,12,
+LLMs_BIA_v11,10,0,224,13,
+LLMs_BIA_v11,12,0,318,4,
+LLMs_BIA_v11,13,0,636,4,
+LLMs_BIA_v11,14,0,558,5,
+LLMs_BIA_v11,15,0,480,6,
+LLMs_BIA_v11,17,0,1942,6,
+LLMs_BIA_v11,18,0,1426,6,
+LLMs_BIA_v11,19,0,834,6,
+LLMs_BIA_v11,20,0,842,6,
+LLMs_BIA_v11,21,0,3059,6,
+LLMs_BIA_v11,22,0,237,2,
+LLMs_BIA_v11,23,0,399,10,
+LLMs_BIA_v11,24,0,1295,8,
+LLMs_BIA_v11,28,0,27120,21,
+LLMs_BIA_v11,29,0,4192,5,
+LLMs_BIA_v11,30,0,3294,11,
+LLMs_BIA_v11,31,0,2429,7,
+LLMs_BIA_v11,32,0,1693,7,
+LLMs_BIA_v11,34,0,1393,7,
+LLMs_BIA_v11,35,0,2581,4,
+LLMs_BIA_v11,36,0,2275,4,
+LLMs_BIA_v11,37,0,2247,4,
+LLMs_BIA_v11,38,0,319,12,
+DASH 2023 - sunpy.coordinates,3,0,475,2,
+DASH 2023 - sunpy.coordinates,4,0,208,3,
+DASH 2023 - sunpy.coordinates,5,0,512,2,
+DASH 2023 - sunpy.coordinates,6,0,351,2,
+DASH 2023 - sunpy.coordinates,7,0,693,2,
+Los recursos de información ER,2,0,353,13,
+Los recursos de información ER,3,0,397,4,
+Los recursos de información ER,4,0,395,2,
+Los recursos de información ER,5,0,904,2,
+Los recursos de información ER,6,0,364,2,
+Los recursos de información ER,7,0,850,3,
+Los recursos de información ER,10,0,2740,5,
+Los recursos de información ER,11,0,1984,3,
+Los recursos de información ER,12,0,274,3,
+Los recursos de información ER,13,0,315,4,
+Los recursos de información ER,14,0,551,2,
+Los recursos de información ER,15,0,440,3,
+Los recursos de información ER,16,0,467,3,
+Los recursos de información ER,17,0,730,3,
+Los recursos de información ER,19,0,583,3,
+Los recursos de información ER,20,0,607,3,
+Los recursos de información ER,22,0,576,3,
+Los recursos de información ER,23,0,306,1,
+Los recursos de información ER,24,0,677,2,
+Los recursos de información ER,25,0,972,2,
+Los recursos de información ER,28,0,457,3,
+Kaier Publikationskosten Folien,2,0,297,2,
+Kaier Publikationskosten Folien,3,0,262,2,
+Kaier Publikationskosten Folien,5,0,421,2,
+Kaier Publikationskosten Folien,6,0,1055,3,
+Kaier Publikationskosten Folien,7,0,462,3,
+Kaier Publikationskosten Folien,9,0,400,2,
+Kaier Publikationskosten Folien,10,0,308,2,
+Kaier Publikationskosten Folien,11,0,436,2,
+Kaier Publikationskosten Folien,12,0,506,2,
+Kaier Publikationskosten Folien,13,0,545,4,
+Kaier Publikationskosten Folien,14,0,298,3,
+Kaier Publikationskosten Folien,15,0,624,3,
+Kaier Publikationskosten Folien,16,0,573,3,
+Kaier Publikationskosten Folien,17,0,491,2,
+Kaier Publikationskosten Folien,18,0,260,2,
+Kaier Publikationskosten Folien,19,0,249,2,
+Kaier Publikationskosten Folien,20,0,527,3,
+Kaier Publikationskosten Folien,21,0,516,2,
+Kaier Publikationskosten Folien,22,0,419,2,
+Kaier Publikationskosten Folien,24,0,358,3,
+Kaier Publikationskosten Folien,25,0,420,2,
+Kaier Publikationskosten Folien,26,0,327,2,
+Kaier Publikationskosten Folien,27,0,511,2,
+Kaier Publikationskosten Folien,28,0,332,2,
+Kaier Publikationskosten Folien,30,0,518,3,
+Kaier Publikationskosten Folien,31,0,647,4,
+Kaier Publikationskosten Folien,32,0,251,2,
+Kaier Publikationskosten Folien,34,0,285,2,
+Kaier Publikationskosten Folien,35,0,611,2,
+Kaier Publikationskosten Folien,36,0,388,2,
+Kaier Publikationskosten Folien,37,0,297,2,
+Kaier Publikationskosten Folien,38,0,365,2,
+Kaier Publikationskosten Folien,39,0,294,2,
+Kaier Publikationskosten Folien,40,0,208,2,
+Kaier Publikationskosten Folien,41,0,225,2,
+Kaier Publikationskosten Folien,42,0,549,2,
+Kaier Publikationskosten Folien,43,0,403,3,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,1,0,184,2,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,2,0,112,2,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,3,0,483,2,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,4,0,450,2,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,5,0,453,2,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,6,0,376,2,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,7,0,499,2,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,8,0,284,2,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,9,0,308,2,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,10,0,505,3,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,12,0,350,3,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,13,0,236,4,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,14,0,278,5,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,15,0,251,2,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,16,0,372,3,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,17,0,370,3,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,18,0,340,4,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,19,0,336,3,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,20,0,344,3,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,21,0,332,3,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,22,0,312,3,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,23,0,319,3,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,24,0,536,3,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,25,0,303,3,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,26,0,533,3,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,27,0,709,3,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,28,0,449,3,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,29,0,206,3,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,30,0,401,3,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,31,0,418,2,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,32,0,482,2,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,33,0,911,2,
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,35,0,825,6,
+eddi-repeated-variables,2,0,404,2,
+eddi-repeated-variables,3,0,455,2,
+eddi-repeated-variables,5,0,409,2,
+eddi-repeated-variables,6,0,563,1,
+eddi-repeated-variables,7,0,596,2,
+eddi-repeated-variables,8,0,395,1,
+eddi-repeated-variables,9,0,561,2,
+eddi-repeated-variables,10,0,545,2,
+eddi-repeated-variables,11,0,401,2,
+eddi-repeated-variables,12,0,423,2,
+eddi-repeated-variables,13,0,678,2,
+eddi-repeated-variables,14,0,193,2,
+1. Introduction to deep learning,2,0,520,2,
+1. Introduction to deep learning,3,0,592,4,
+1. Introduction to deep learning,5,0,192,2,
+1. Introduction to deep learning,6,0,182,2,
+1. Introduction to deep learning,7,0,177,2,
+1. Introduction to deep learning,8,0,488,2,
+1. Introduction to deep learning,10,0,135,1,
+1. Introduction to deep learning,11,0,2066,4,
+1. Introduction to deep learning,14,0,246,4,
+1. Introduction to deep learning,24,0,211,3,
+1. Introduction to deep learning,26,0,2198,5,
+1. Introduction to deep learning,28,0,383,2,
+1. Introduction to deep learning,29,0,415,4,
+1. Introduction to deep learning,30,0,157,2,
+1. Introduction to deep learning,32,0,291,8,
+1. Introduction to deep learning,33,0,442,19,
+Benjamin - Improving metadata of the ESS,1,0,257,1,
+Benjamin - Improving metadata of the ESS,2,0,233,3,
+Benjamin - Improving metadata of the ESS,3,0,385,2,
+Benjamin - Improving metadata of the ESS,4,0,660,1,
+Benjamin - Improving metadata of the ESS,5,0,1513,1,
+Benjamin - Improving metadata of the ESS,6,0,247,2,
+Benjamin - Improving metadata of the ESS,8,0,1096,2,
+Benjamin - Improving metadata of the ESS,9,0,1450,3,
+Benjamin - Improving metadata of the ESS,10,0,628,4,
+Benjamin - Improving metadata of the ESS,11,0,257,2,
+Benjamin - Improving metadata of the ESS,14,0,843,2,
+Benjamin - Improving metadata of the ESS,15,0,428,1,
+Benjamin - Improving metadata of the ESS,16,0,1105,1,
+Benjamin - Improving metadata of the ESS,18,0,548,3,
+Benjamin - Improving metadata of the ESS,22,0,471,3,
+Benjamin - Improving metadata of the ESS,24,0,270,2,
+Benjamin - Improving metadata of the ESS,25,0,275,2,
+Benjamin - Improving metadata of the ESS,26,0,219,2,
+Benjamin - Improving metadata of the ESS,27,0,521,1,
+Benjamin - Improving metadata of the ESS,28,0,406,1,
+Benjamin - Improving metadata of the ESS,29,0,282,2,
+Benjamin - Improving metadata of the ESS,30,0,1053,2,
+Benjamin - Improving metadata of the ESS,33,0,593,3,
+Software at NASA_ Lightning Breakout 1B,1,0,224,2,
+Software at NASA_ Lightning Breakout 1B,5,0,649,2,
+Software at NASA_ Lightning Breakout 1B,9,0,1279,8,
+Software at NASA_ Lightning Breakout 1B,12,0,864,2,
+D3.1.2 Diagrams,1,0,343,10,
+D3.1.2 Diagrams,2,0,266,8,
+D3.1.2 Diagrams,3,0,476,13,
+D3.1.2 Diagrams,4,0,296,8,
+D3.1.2 Diagrams,5,0,311,10,
+ONLINE_4_INNOVATIVE_INOS_cases_Tallinn University (1),1,0,2090,4,
+Experiencia del Control BibliogrÃ¡fico en la BVS EnfermerÃ_a Colombia,1,0,429,5,
+Experiencia del Control BibliogrÃ¡fico en la BVS EnfermerÃ_a Colombia,3,0,326,5,
+Experiencia del Control BibliogrÃ¡fico en la BVS EnfermerÃ_a Colombia,4,0,314,4,
+Experiencia del Control BibliogrÃ¡fico en la BVS EnfermerÃ_a Colombia,6,0,378,6,
+Experiencia del Control BibliogrÃ¡fico en la BVS EnfermerÃ_a Colombia,8,0,355,5,
+JOBANDA SLIDES - 2023 FORM,3,0,485,2,
+JOBANDA SLIDES - 2023 FORM,7,0,382,9,
+JOBANDA SLIDES - 2023 FORM,10,0,426,1,
+JOBANDA SLIDES - 2023 FORM,11,0,1608,1,
+igraph,4,0,162,2,
+igraph,6,0,1437,2,
+igraph,7,0,341,2,
+igraph,9,0,464,2,
+igraph,11,0,338,2,
+igraph,12,0,312,2,
+igraph,13,0,323,2,
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,4,0,556,1,
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,7,0,112,1,
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,8,0,1476,9,
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,10,0,2341,10,
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,13,0,241,1,
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,14,0,4629,11,
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,15,0,336,11,
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,17,0,280,28,
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,18,0,316,3,
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,20,0,994,4,
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,21,0,965,4,
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,23,0,1237,1,
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,24,0,706,2,
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,25,0,672,2,
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,27,0,576,3,
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,29,0,611,4,
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,35,0,874,2,
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,36,0,982,2,
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,37,0,1038,2,
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,38,0,996,2,
+CSKG - The Commonsense Knowledge Graph - Filip Ilievski,39,0,887,2,
+barnum_hssi_dash_presentation,1,0,475,2,
+barnum_hssi_dash_presentation,2,0,776,2,
+barnum_hssi_dash_presentation,3,0,728,4,
+barnum_hssi_dash_presentation,4,0,730,2,
+barnum_hssi_dash_presentation,5,0,577,2,
+barnum_hssi_dash_presentation,6,0,2456,6,
+barnum_hssi_dash_presentation,7,0,763,4,
+barnum_hssi_dash_presentation,8,0,1870,3,
+barnum_hssi_dash_presentation,9,0,609,2,
+barnum_hssi_dash_presentation,10,0,478,2,
+Sayantan_Ghosh_NanoNet_2023_Presentation,1,0,248,2,
+Sayantan_Ghosh_NanoNet_2023_Presentation,2,0,145,2,
+Sayantan_Ghosh_NanoNet_2023_Presentation,3,0,548,2,
+Sayantan_Ghosh_NanoNet_2023_Presentation,4,0,746,10,
+Sayantan_Ghosh_NanoNet_2023_Presentation,6,0,834,9,
+Sayantan_Ghosh_NanoNet_2023_Presentation,8,0,1412,9,
+Sayantan_Ghosh_NanoNet_2023_Presentation,11,0,864,7,
+Sayantan_Ghosh_NanoNet_2023_Presentation,12,0,883,13,
+Sayantan_Ghosh_NanoNet_2023_Presentation,13,0,508,6,
+Sayantan_Ghosh_NanoNet_2023_Presentation,14,0,1158,8,
+Sayantan_Ghosh_NanoNet_2023_Presentation,17,0,1140,4,
+Sayantan_Ghosh_NanoNet_2023_Presentation,20,0,799,7,
+Sayantan_Ghosh_NanoNet_2023_Presentation,21,0,708,3,
+Sayantan_Ghosh_NanoNet_2023_Presentation,22,0,713,4,
+Sayantan_Ghosh_NanoNet_2023_Presentation,24,0,1558,9,
+Sayantan_Ghosh_NanoNet_2023_Presentation,26,0,359,2,
+Sayantan_Ghosh_NanoNet_2023_Presentation,27,0,582,6,
+Sayantan_Ghosh_NanoNet_2023_Presentation,29,0,940,13,
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,2,0,117,2,
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,7,0,255,2,
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,16,0,475,6,
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,17,0,330,3,
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,18,0,2177,9,
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,19,0,473,4,
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,20,0,1332,3,
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,21,0,903,6,
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,23,0,253,3,
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,24,0,312,3,
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,25,0,367,3,
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,26,0,584,3,
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,27,0,276,4,
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,28,0,195,2,
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,30,0,434,2,
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,31,0,324,2,
+sesióndiabetes3,1,0,287,2,
+sesióndiabetes3,3,0,270,2,
+sesióndiabetes3,4,0,924,15,
+sesióndiabetes3,5,0,402,4,
+sesióndiabetes3,6,0,495,4,
+sesióndiabetes3,7,0,474,3,
+sesióndiabetes3,8,0,839,2,
+sesióndiabetes3,9,0,1513,6,
+sesióndiabetes3,10,0,1147,5,
+sesióndiabetes3,11,0,1930,5,
+sesióndiabetes3,12,0,1537,5,
+sesióndiabetes3,13,0,135,2,
+sesióndiabetes3,15,0,1311,3,
+sesióndiabetes3,16,0,1051,4,
+sesióndiabetes3,18,0,486,2,
+sesióndiabetes3,19,0,867,4,
+sesióndiabetes3,20,0,462,5,
+sesióndiabetes3,21,0,487,4,
+sesióndiabetes3,22,0,306,2,
+sesióndiabetes3,24,0,468,2,
+sesióndiabetes3,25,0,1314,2,
+sesióndiabetes3,26,0,454,2,
+sesióndiabetes3,28,0,1554,5,
+sesióndiabetes3,29,0,595,3,
+sesióndiabetes3,31,0,425,2,
+sesióndiabetes3,32,0,272,2,
+sesióndiabetes3,33,0,465,2,
+sesióndiabetes3,34,0,233,2,
+sesióndiabetes3,35,0,1650,2,
+Entity_Life_Cycle_in_Search-Centric_Knowledge_Graphs,1,0,104,2,
+Entity_Life_Cycle_in_Search-Centric_Knowledge_Graphs,2,0,370,11,
+Entity_Life_Cycle_in_Search-Centric_Knowledge_Graphs,4,0,2148,5,
+Entity_Life_Cycle_in_Search-Centric_Knowledge_Graphs,5,0,370,4,
+Entity_Life_Cycle_in_Search-Centric_Knowledge_Graphs,7,0,522,16,
+Entity_Life_Cycle_in_Search-Centric_Knowledge_Graphs,8,0,489,8,
+Entity_Life_Cycle_in_Search-Centric_Knowledge_Graphs,9,0,625,10,
+Entity_Life_Cycle_in_Search-Centric_Knowledge_Graphs,11,0,988,10,
+Entity_Life_Cycle_in_Search-Centric_Knowledge_Graphs,12,0,849,8,
+Entity_Life_Cycle_in_Search-Centric_Knowledge_Graphs,14,0,2616,5,
+Entity_Life_Cycle_in_Search-Centric_Knowledge_Graphs,15,0,1733,4,
+Entity_Life_Cycle_in_Search-Centric_Knowledge_Graphs,16,0,1409,5,
+Open Source in Rubin Data Management,4,0,894,2,
+Open Source in Rubin Data Management,5,0,554,2,
+Open Source in Rubin Data Management,6,0,307,3,
+Open Source in Rubin Data Management,7,0,902,2,
+Open Source in Rubin Data Management,8,0,522,2,
+Open Source in Rubin Data Management,9,0,464,2,
+Open Source in Rubin Data Management,10,0,398,2,
+Open Source in Rubin Data Management,11,0,330,2,
+Open Source in Rubin Data Management,12,0,152,2,
+Open Source in Rubin Data Management,13,0,386,2,
+Open Source in Rubin Data Management,14,0,371,2,
+Open Source in Rubin Data Management,15,0,449,2,
+ICTP 23 Marine,4,0,1757,3,
+ICTP 23 Marine,5,0,1039,13,
+ICTP 23 Marine,7,0,467,2,
+ICTP 23 Marine,8,0,567,2,
+ICTP 23 Marine,9,0,553,2,
+KC4 presentation,3,0,2294,2,
+KC4 presentation,7,0,390,3,
+KC4 presentation,8,0,401,3,
+KC4 presentation,9,0,583,3,
+KC4 presentation,10,0,281,2,
+KC4 presentation,12,0,516,3,
+PPT ICIGR RIFQI HIDAYAT OK - Rifqi Hidayat,1,0,360,2,
+PPT ICIGR RIFQI HIDAYAT OK - Rifqi Hidayat,2,0,562,3,
+PPT ICIGR RIFQI HIDAYAT OK - Rifqi Hidayat,3,0,710,2,
+PPT ICIGR RIFQI HIDAYAT OK - Rifqi Hidayat,4,0,452,2,
+PPT ICIGR RIFQI HIDAYAT OK - Rifqi Hidayat,5,0,661,2,
+PPT ICIGR RIFQI HIDAYAT OK - Rifqi Hidayat,6,0,672,2,
+PPT ICIGR RIFQI HIDAYAT OK - Rifqi Hidayat,7,0,780,2,
+PPT ICIGR RIFQI HIDAYAT OK - Rifqi Hidayat,8,0,895,2,
+PPT ICIGR RIFQI HIDAYAT OK - Rifqi Hidayat,9,0,760,2,
+PPT ICIGR RIFQI HIDAYAT OK - Rifqi Hidayat,10,0,695,2,
+Lazzeri_Mod7,1,0,410,4,
+Lazzeri_Mod7,2,0,675,4,
+Lazzeri_Mod7,4,0,570,4,
+Lazzeri_Mod7,5,0,711,4,
+Lazzeri_Mod7,7,0,518,4,
+Lazzeri_Mod7,8,0,348,4,
+Lazzeri_Mod7,12,0,1174,6,
+Lazzeri_Mod7,13,0,821,5,
+Lazzeri_Mod7,14,0,1465,5,
+Lazzeri_Mod7,15,0,836,4,
+Lazzeri_Mod7,16,0,848,4,
+Lazzeri_Mod7,17,0,293,4,
+Lazzeri_Mod7,18,0,324,4,
+Lazzeri_Mod7,19,0,677,5,
+Lazzeri_Mod7,20,0,1134,4,
+Lazzeri_Mod7,21,0,780,4,
+Lazzeri_Mod7,22,0,1104,4,
+Lazzeri_Mod7,24,0,383,4,
+Lazzeri_Mod7,25,0,1053,4,
+Lazzeri_Mod7,26,0,3571,8,
+Lazzeri_Mod7,27,0,620,4,
+Lazzeri_Mod7,28,0,473,7,
+Lazzeri_Mod7,29,0,1041,4,
+Lazzeri_Mod7,30,0,774,4,
+Lazzeri_Mod7,32,0,416,4,
+Lazzeri_Mod7,33,0,1072,4,
+Lazzeri_Mod7,34,0,531,4,
+Lazzeri_Mod7,35,0,1104,4,
+Lazzeri_Mod7,36,0,2314,6,
+Lazzeri_Mod7,39,0,431,4,
+Lazzeri_Mod7,40,0,1212,4,
+Lazzeri_Mod7,41,0,840,4,
+Lazzeri_Mod7,42,0,760,4,
+Lazzeri_Mod7,43,0,3916,6,
+Lazzeri_Mod7,44,0,1076,6,
+Lazzeri_Mod7,45,0,3662,7,
+Lazzeri_Mod7,46,0,6576,7,
+Lazzeri_Mod7,47,0,760,4,
+Lazzeri_Mod7,48,0,1126,4,
+Lazzeri_Mod7,49,0,665,5,
+Lazzeri_Mod7,51,0,542,2,
+Lazzeri_Mod7,52,0,1056,4,
+Lazzeri_Mod7,55,0,887,7,
+Lazzeri_Mod7,56,0,578,3,
+Lazzeri_Mod7,57,0,146,3,
+Lazzeri_Mod7,58,0,316,3,
+Lazzeri_Mod7,60,0,7109,3,
+Lazzeri_Mod7,61,0,766,3,
+Lazzeri_Mod7,62,0,278,4,
+KesteriteWorkshop_2022_Denmark_Talk_2_Zenodo-upload,2,0,647,2,
+KesteriteWorkshop_2022_Denmark_Talk_2_Zenodo-upload,7,0,551,4,
+KesteriteWorkshop_2022_Denmark_Talk_2_Zenodo-upload,8,0,677,4,
+KesteriteWorkshop_2022_Denmark_Talk_2_Zenodo-upload,10,0,367,1,
+Rachel_Harding_Creative_Commons_20180413,2,0,237,1,
+Rachel_Harding_Creative_Commons_20180413,4,0,782,2,
+Rachel_Harding_Creative_Commons_20180413,5,0,811,2,
+Rachel_Harding_Creative_Commons_20180413,6,0,1966,10,
+Rachel_Harding_Creative_Commons_20180413,7,0,5122,3,
+Rachel_Harding_Creative_Commons_20180413,8,0,1522,4,
+Rachel_Harding_Creative_Commons_20180413,9,0,1313,16,
+Rachel_Harding_Creative_Commons_20180413,10,0,406,2,
+Rachel_Harding_Creative_Commons_20180413,11,0,1958,2,
+Rachel_Harding_Creative_Commons_20180413,12,0,484,2,
+Rachel_Harding_Creative_Commons_20180413,13,0,422,2,
+Rachel_Harding_Creative_Commons_20180413,15,0,3370,5,
+Rachel_Harding_Creative_Commons_20180413,16,0,2437,3,
+Rachel_Harding_Creative_Commons_20180413,17,0,2460,8,
+Rachel_Harding_Creative_Commons_20180413,18,0,810,2,
+Rachel_Harding_Creative_Commons_20180413,19,0,1152,2,
+Rachel_Harding_Creative_Commons_20180413,21,0,400,2,
+Rachel_Harding_Creative_Commons_20180413,22,0,575,2,
+Rachel_Harding_Creative_Commons_20180413,23,0,730,3,
+Rachel_Harding_Creative_Commons_20180413,24,0,1464,5,
+Rachel_Harding_Creative_Commons_20180413,25,0,463,7,
+Rachel_Harding_Creative_Commons_20180413,27,0,1124,7,
+Rachel_Harding_Creative_Commons_20180413,32,0,368,2,
+Rachel_Harding_Creative_Commons_20180413,33,0,4125,6,
+Rachel_Harding_Creative_Commons_20180413,34,0,1397,3,
+Rachel_Harding_Creative_Commons_20180413,36,0,285,2,
+Rachel_Harding_Creative_Commons_20180413,37,0,1372,4,
+NADDI 4-5,1,0,282,2,
+NADDI 4-5,2,0,526,2,
+NADDI 4-5,3,0,343,2,
+NADDI 4-5,4,0,474,1,
+NADDI 4-5,6,0,1394,10,
+NADDI 4-5,7,0,869,6,
+NADDI 4-5,11,0,670,2,
+NADDI 4-5,12,0,1501,4,
+NADDI 4-5,13,0,424,3,
+NADDI 4-5,14,0,739,3,
+NADDI 4-5,15,0,2653,2,
+NADDI 4-5,16,0,4794,5,
+NADDI 4-5,17,0,1360,3,
+NADDI 4-5,18,0,553,3,
+NADDI 4-5,19,0,1176,3,
+NADDI 4-5,20,0,1294,3,
+NADDI 4-5,21,0,643,3,
+NADDI 4-5,22,0,676,3,
+NADDI 4-5,23,0,1512,2,
+NADDI 4-5,25,0,713,3,
+NADDI 4-5,26,0,146,2,
+(23-10-04) CIESIN Presentation - Mead,1,0,120,2,
+(23-10-04) CIESIN Presentation - Mead,2,0,207,4,
+(23-10-04) CIESIN Presentation - Mead,3,0,174,2,
+(23-10-04) CIESIN Presentation - Mead,5,0,309,4,
+(23-10-04) CIESIN Presentation - Mead,6,0,420,6,
+(23-10-04) CIESIN Presentation - Mead,7,0,543,6,
+(23-10-04) CIESIN Presentation - Mead,8,0,670,7,
+(23-10-04) CIESIN Presentation - Mead,9,0,253,4,
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,2,0,1872,2,
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,3,0,415,3,
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,6,0,4494,5,
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,7,0,3350,5,
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,8,0,4081,5,
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,13,0,114,2,
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,19,0,401,2,
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,20,0,297,4,
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,21,0,1630,3,
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,22,0,218,4,
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,23,0,420,2,
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,24,0,546,2,
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,25,0,541,2,
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,26,0,581,2,
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,27,0,1271,3,
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,33,0,389,3,
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,34,0,783,3,
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,35,0,161,2,
 pharma_market_research_data,1,0,318,2,
 pharma_market_research_data,2,0,547,2,
+ROMOR_Burnhill_Focus_ on_User,2,0,269,3,
+ROMOR_Burnhill_Focus_ on_User,3,0,2433,5,
+ROMOR_Burnhill_Focus_ on_User,4,0,673,3,
+ROMOR_Burnhill_Focus_ on_User,5,0,669,3,
+ROMOR_Burnhill_Focus_ on_User,6,0,1316,4,
+ROMOR_Burnhill_Focus_ on_User,7,0,1087,3,
+ROMOR_Burnhill_Focus_ on_User,9,0,682,6,
+ROMOR_Burnhill_Focus_ on_User,10,0,517,9,
+ROMOR_Burnhill_Focus_ on_User,11,0,897,2,
+ROMOR_Burnhill_Focus_ on_User,14,0,118,1,
+ROMOR_Burnhill_Focus_ on_User,16,0,2024,2,
+ROMOR_Burnhill_Focus_ on_User,17,0,1126,2,
+ROMOR_Burnhill_Focus_ on_User,19,0,717,8,
+ROMOR_Burnhill_Focus_ on_User,20,0,2139,16,
+ROMOR_Burnhill_Focus_ on_User,21,0,547,3,
+ROMOR_Burnhill_Focus_ on_User,22,0,524,2,
+ROMOR_Burnhill_Focus_ on_User,23,0,714,2,
+ROMOR_Burnhill_Focus_ on_User,24,0,376,2,
+ROMOR_Burnhill_Focus_ on_User,25,0,503,2,
+ROMOR_Burnhill_Focus_ on_User,26,0,468,2,
+ROMOR_Burnhill_Focus_ on_User,27,0,321,2,
+ROMOR_Burnhill_Focus_ on_User,28,0,308,3,
+ROMOR_Burnhill_Focus_ on_User,29,0,550,2,
+ROMOR_Burnhill_Focus_ on_User,30,0,421,16,
+ROMOR_Burnhill_Focus_ on_User,31,0,476,3,
+ROMOR_Burnhill_Focus_ on_User,32,0,640,4,
+ROMOR_Burnhill_Focus_ on_User,33,0,619,2,
+ROMOR_Burnhill_Focus_ on_User,34,0,716,3,
+ROMOR_Burnhill_Focus_ on_User,35,0,392,2,
+ROMOR_Burnhill_Focus_ on_User,36,0,717,1,
+ROMOR_Burnhill_Focus_ on_User,39,0,285,2,
+ROMOR_Burnhill_Focus_ on_User,40,0,1068,3,
+PPT St Andrews,2,0,677,3,
+PPT St Andrews,3,0,243,2,
+PPT St Andrews,4,0,606,2,
+PPT St Andrews,6,0,2253,1,
+PPT St Andrews,7,0,1183,1,
+PPT St Andrews,9,0,1213,1,
+PPT St Andrews,10,0,1027,2,
+PPT St Andrews,12,0,584,1,
+PPT St Andrews,13,0,111,2,
+PPT St Andrews,14,0,177,2,
+PPT St Andrews,15,0,205,2,
+PPT St Andrews,16,0,240,2,
+PPT St Andrews,18,0,306,2,
+PPT St Andrews,19,0,434,3,
+PPT St Andrews,20,0,239,3,
+PPT St Andrews,21,0,179,3,
+Workshop Biodemography_ITA,3,0,297,2,
+Workshop Biodemography_ITA,4,0,804,3,
+Workshop Biodemography_ITA,5,0,882,8,
+Workshop Biodemography_ITA,6,0,239,3,
+Workshop Biodemography_ITA,7,0,511,3,
+Workshop Biodemography_ITA,8,0,691,3,
+Workshop Biodemography_ITA,9,0,246,2,
+Workshop Biodemography_ITA,10,0,334,2,
+Workshop Biodemography_ITA,11,0,400,3,
+Workshop Biodemography_ITA,12,0,556,14,
+Workshop Biodemography_ITA,13,0,1435,3,
+Workshop Biodemography_ITA,14,0,480,2,
+Workshop Biodemography_ITA,15,0,653,2,
+Workshop Biodemography_ITA,16,0,491,7,
+Workshop Biodemography_ITA,17,0,226,2,
+Workshop Biodemography_ITA,18,0,745,2,
+Workshop Biodemography_ITA,19,0,340,2,
+Workshop Biodemography_ITA,20,0,532,2,
+Workshop Biodemography_ITA,22,0,468,2,
+Workshop Biodemography_ITA,23,0,214,5,
+Workshop Biodemography_ITA,24,0,457,8,
+Workshop Biodemography_ITA,26,0,674,3,
+Workshop Biodemography_ITA,27,0,800,7,
+Workshop Biodemography_ITA,28,0,561,18,
+Workshop Biodemography_ITA,29,0,1401,8,
+Workshop Biodemography_ITA,30,0,1011,5,
+Workshop Biodemography_ITA,31,0,1124,5,
+Workshop Biodemography_ITA,32,0,212,2,
+Workshop Biodemography_ITA,33,0,488,4,
+Workshop Biodemography_ITA,35,0,577,6,
+Workshop Biodemography_ITA,37,0,599,5,
+Workshop Biodemography_ITA,38,0,937,5,
+Workshop Biodemography_ITA,39,0,385,3,
+Workshop Biodemography_ITA,41,0,303,4,
+Workshop Biodemography_ITA,42,0,2226,4,
+Workshop Biodemography_ITA,43,0,1765,4,
+Workshop Biodemography_ITA,44,0,2130,4,
+Workshop Biodemography_ITA,45,0,856,4,
+Workshop Biodemography_ITA,46,0,798,4,
+Workshop Biodemography_ITA,47,0,2421,4,
+Workshop Biodemography_ITA,48,0,1118,2,
+Workshop Biodemography_ITA,50,0,1824,4,
+Workshop Biodemography_ITA,51,0,2543,6,
+Workshop Biodemography_ITA,52,0,894,4,
+Workshop Biodemography_ITA,53,0,2844,7,
+Workshop Biodemography_ITA,54,0,1178,4,
+Workshop Biodemography_ITA,55,0,491,3,
+Workshop Biodemography_ITA,56,0,2273,6,
+Workshop Biodemography_ITA,57,0,1105,5,
+Workshop Biodemography_ITA,58,0,2830,3,
+Workshop Biodemography_ITA,59,0,943,3,
+Workshop Biodemography_ITA,60,0,1253,4,
+Workshop Biodemography_ITA,61,0,827,3,
+Workshop Biodemography_ITA,62,0,540,3,
+Workshop Biodemography_ITA,63,0,559,3,
+Workshop Biodemography_ITA,64,0,616,3,
+Workshop Biodemography_ITA,65,0,3623,5,
+Workshop Biodemography_ITA,66,0,780,6,
+Workshop Biodemography_ITA,67,0,346,6,

@@ -1,33 +1,131 @@
 document_id,page_number,risk_score,flags,reason
-labeled samples,2,3,image_ocr_found_nothing(x6),FLAGGED
-labeled samples,18,3,image_ocr_found_nothing(x5),FLAGGED
-labeled samples,47,0,,RANDOM_SAMPLE
-labeled samples,8,0,,RANDOM_SAMPLE
-pharma_complex_dashboards_set,2,0,,RANDOM_SAMPLE
-labeled samples,21,0,,RANDOM_SAMPLE
-labeled samples,19,0,,RANDOM_SAMPLE
-labeled samples,16,0,,RANDOM_SAMPLE
-labeled samples,9,0,,RANDOM_SAMPLE
-labeled samples,7,0,,RANDOM_SAMPLE
-labeled samples,40,0,,RANDOM_SAMPLE
-labeled samples,5,0,,RANDOM_SAMPLE
-labeled samples,32,0,,RANDOM_SAMPLE
-pharma_complex_dashboards_set,3,0,,RANDOM_SAMPLE
-labeled samples,50,0,,RANDOM_SAMPLE
-labeled samples,43,0,,RANDOM_SAMPLE
-labeled samples,15,0,,RANDOM_SAMPLE
-pharma_market_research_data,1,0,,RANDOM_SAMPLE
-labeled samples,20,0,,RANDOM_SAMPLE
-labeled samples,23,0,,RANDOM_SAMPLE
+ARDC_Pidapalooza_Simons_Duncan_2020,1,3,image_ocr_found_nothing(x1),FLAGGED
+ARDC_Pidapalooza_Simons_Duncan_2020,6,3,image_ocr_found_nothing(x1),FLAGGED
+magCEvNS2018_mahapatra-rupak,2,3,image_ocr_found_nothing(x3),FLAGGED
+magCEvNS2018_mahapatra-rupak,3,3,image_ocr_found_nothing(x3),FLAGGED
+magCEvNS2018_mahapatra-rupak,5,3,image_ocr_found_nothing(x1),FLAGGED
+magCEvNS2018_mahapatra-rupak,6,3,image_ocr_found_nothing(x1),FLAGGED
+magCEvNS2018_mahapatra-rupak,8,3,image_ocr_found_nothing(x2),FLAGGED
+magCEvNS2018_mahapatra-rupak,9,3,image_ocr_found_nothing(x3),FLAGGED
+magCEvNS2018_mahapatra-rupak,10,3,image_ocr_found_nothing(x4),FLAGGED
+magCEvNS2018_mahapatra-rupak,12,3,image_ocr_found_nothing(x3),FLAGGED
+magCEvNS2018_mahapatra-rupak,14,3,image_ocr_found_nothing(x4),FLAGGED
+magCEvNS2018_mahapatra-rupak,15,3,image_ocr_found_nothing(x3),FLAGGED
+magCEvNS2018_mahapatra-rupak,16,3,image_ocr_found_nothing(x2),FLAGGED
+magCEvNS2018_mahapatra-rupak,17,3,image_ocr_found_nothing(x4),FLAGGED
+magCEvNS2018_mahapatra-rupak,18,3,image_ocr_found_nothing(x3),FLAGGED
+magCEvNS2018_mahapatra-rupak,19,3,image_ocr_found_nothing(x6),FLAGGED
+magCEvNS2018_mahapatra-rupak,20,3,image_ocr_found_nothing(x1),FLAGGED
+magCEvNS2018_mahapatra-rupak,21,3,image_ocr_found_nothing(x2),FLAGGED
+magCEvNS2018_mahapatra-rupak,22,3,image_ocr_found_nothing(x6),FLAGGED
+magCEvNS2018_mahapatra-rupak,24,3,image_ocr_found_nothing(x8),FLAGGED
+magCEvNS2018_mahapatra-rupak,26,3,image_ocr_found_nothing(x5),FLAGGED
+Bösmann EKC2023,1,3,image_ocr_found_nothing(x2),FLAGGED
+Bösmann EKC2023,2,3,image_ocr_found_nothing(x7),FLAGGED
+Bösmann EKC2023,3,3,image_ocr_found_nothing(x9),FLAGGED
+Bösmann EKC2023,7,3,image_ocr_found_nothing(x1),FLAGGED
+Bösmann EKC2023,8,3,image_ocr_found_nothing(x4),FLAGGED
+Bösmann EKC2023,12,3,image_ocr_found_nothing(x4),FLAGGED
+Bösmann EKC2023,14,3,image_ocr_found_nothing(x2),FLAGGED
+Bösmann EKC2023,17,3,image_ocr_found_nothing(x1),FLAGGED
+AEROdays2019_Innovative manufacturing and MRO_Digitalization of maint operations,1,3,image_ocr_found_nothing(x2),FLAGGED
+AEROdays2019_Innovative manufacturing and MRO_Digitalization of maint operations,3,3,image_ocr_found_nothing(x5),FLAGGED
+AEROdays2019_Innovative manufacturing and MRO_Digitalization of maint operations,8,3,image_ocr_found_nothing(x1),FLAGGED
+Using IIIF to teach Digital Humanities (1) (2),1,3,image_ocr_found_nothing(x1),FLAGGED
+Using IIIF to teach Digital Humanities (1) (2),3,3,image_ocr_found_nothing(x1),FLAGGED
+Using IIIF to teach Digital Humanities (1) (2),6,3,image_ocr_found_nothing(x1),FLAGGED
+Using IIIF to teach Digital Humanities (1) (2),27,3,image_ocr_found_nothing(x5),FLAGGED
+Präsentation_WasBedeutetOpenAccess,1,3,image_ocr_found_nothing(x2),FLAGGED
+Präsentation_WasBedeutetOpenAccess,3,3,image_ocr_found_nothing(x1),FLAGGED
+Präsentation_WasBedeutetOpenAccess,4,3,image_ocr_found_nothing(x1),FLAGGED
+Präsentation_WasBedeutetOpenAccess,7,3,image_ocr_found_nothing(x7),FLAGGED
+Präsentation_WasBedeutetOpenAccess,8,3,image_ocr_found_nothing(x5),FLAGGED
+Präsentation_WasBedeutetOpenAccess,9,3,image_ocr_found_nothing(x1),FLAGGED
+Präsentation_WasBedeutetOpenAccess,10,3,image_ocr_found_nothing(x3),FLAGGED
+Präsentation_WasBedeutetOpenAccess,11,3,image_ocr_found_nothing(x6),FLAGGED
+Präsentation_WasBedeutetOpenAccess,12,3,image_ocr_found_nothing(x5),FLAGGED
+Präsentation_WasBedeutetOpenAccess,16,3,image_ocr_found_nothing(x2),FLAGGED
+Präsentation_WasBedeutetOpenAccess,19,3,image_ocr_found_nothing(x1),FLAGGED
+IPPOG-Poster-20211231,1,3,image_ocr_found_nothing(x8),FLAGGED
+FootWork_Closing_VLAB,7,3,image_ocr_found_nothing(x1),FLAGGED
+FootWork_Closing_VLAB,10,3,image_ocr_found_nothing(x3),FLAGGED
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,2,3,image_ocr_found_nothing(x1),FLAGGED
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,3,3,image_ocr_found_nothing(x1),FLAGGED
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,4,3,image_ocr_found_nothing(x1),FLAGGED
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,5,3,image_ocr_found_nothing(x1),FLAGGED
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,6,3,image_ocr_found_nothing(x1),FLAGGED
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,7,3,image_ocr_found_nothing(x1),FLAGGED
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,8,3,image_ocr_found_nothing(x1),FLAGGED
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,9,3,image_ocr_found_nothing(x1),FLAGGED
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,10,3,image_ocr_found_nothing(x1),FLAGGED
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,11,3,image_ocr_found_nothing(x1),FLAGGED
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,12,3,image_ocr_found_nothing(x1),FLAGGED
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,13,3,image_ocr_found_nothing(x1),FLAGGED
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,14,3,image_ocr_found_nothing(x1),FLAGGED
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,15,3,image_ocr_found_nothing(x1),FLAGGED
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,16,3,image_ocr_found_nothing(x1),FLAGGED
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,18,3,image_ocr_found_nothing(x1),FLAGGED
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,19,3,image_ocr_found_nothing(x1),FLAGGED
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,20,3,image_ocr_found_nothing(x1),FLAGGED
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,21,3,image_ocr_found_nothing(x1),FLAGGED
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,22,3,image_ocr_found_nothing(x1),FLAGGED
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,23,3,image_ocr_found_nothing(x1),FLAGGED
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,24,3,image_ocr_found_nothing(x1),FLAGGED
+5xPRO_T3_29.5.2024_NIB_PPT_ARIS,25,3,image_ocr_found_nothing(x3),FLAGGED
+Design of Coal Handling ,4,3,image_ocr_found_nothing(x1),FLAGGED
+Design of Coal Handling ,19,3,image_ocr_found_nothing(x1),FLAGGED
+chrisdone_padua18_final,1,3,image_ocr_found_nothing(x2),FLAGGED
+chrisdone_padua18_final,2,3,image_ocr_found_nothing(x2),FLAGGED
+chrisdone_padua18_final,3,3,image_ocr_found_nothing(x1),FLAGGED
+chrisdone_padua18_final,4,3,image_ocr_found_nothing(x2),FLAGGED
+chrisdone_padua18_final,5,3,image_ocr_found_nothing(x3),FLAGGED
+chrisdone_padua18_final,16,3,image_ocr_found_nothing(x3),FLAGGED
+chrisdone_padua18_final,17,3,image_ocr_found_nothing(x2),FLAGGED
+chrisdone_padua18_final,31,3,image_ocr_found_nothing(x1),FLAGGED
+chrisdone_padua18_final,33,3,image_ocr_found_nothing(x1),FLAGGED
+5-10 11A 215 DuaneNash,3,3,image_ocr_found_nothing(x2),FLAGGED
+5-10 11A 215 DuaneNash,5,3,image_ocr_found_nothing(x4),FLAGGED
+5-10 11A 215 DuaneNash,7,3,image_ocr_found_nothing(x4),FLAGGED
+5-10 11A 215 DuaneNash,8,3,image_ocr_found_nothing(x2),FLAGGED
+5-10 11A 215 DuaneNash,10,3,image_ocr_found_nothing(x1),FLAGGED
+5-10 11A 215 DuaneNash,11,3,image_ocr_found_nothing(x5),FLAGGED
+5-10 11A 215 DuaneNash,12,3,image_ocr_found_nothing(x2),FLAGGED
+5-10 11A 215 DuaneNash,13,3,image_ocr_found_nothing(x2),FLAGGED
+5-10 11A 215 DuaneNash,14,3,image_ocr_found_nothing(x4),FLAGGED
+5-10 11A 215 DuaneNash,15,3,image_ocr_found_nothing(x6),FLAGGED
+5-10 11A 215 DuaneNash,16,3,image_ocr_found_nothing(x1),FLAGGED
+5-10 11A 215 DuaneNash,19,3,image_ocr_found_nothing(x2),FLAGGED
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,4,3,image_ocr_found_nothing(x1),FLAGGED
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,6,3,image_ocr_found_nothing(x5),FLAGGED
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,7,3,image_ocr_found_nothing(x1),FLAGGED
+Whitaker_CamPsychiatryPIDay_TheTuringWay_Jan2019,8,3,image_ocr_found_nothing(x8),FLAGGED
+Workshop Biodemography_ITA,23,0,,RANDOM_SAMPLE
+labeled samples,22,0,,RANDOM_SAMPLE
+História e Evolução do Lean Manufacturing,13,0,,RANDOM_SAMPLE
+OS_4_PhD_2019,21,0,,RANDOM_SAMPLE
+Town_Hall_Ethics_AI_ML,25,0,,RANDOM_SAMPLE
+webinar   1 ,10,0,,RANDOM_SAMPLE
+ReproducibleComputationalEnvironment,14,0,,RANDOM_SAMPLE
+MSWCXslides_Nov2023,8,0,,RANDOM_SAMPLE
+Lazzeri_Mod7,5,0,,RANDOM_SAMPLE
+2021-06-08+10_Praesentation_TTT_Universitaeten,25,0,,RANDOM_SAMPLE
+NADDI 4-5,21,0,,RANDOM_SAMPLE
+UMK UNUSA KONFERENS 2 - ateerah abdul razak,1,0,,RANDOM_SAMPLE
+No_01_welcome_querylanguages4humanities,10,0,,RANDOM_SAMPLE
+No_01_welcome_querylanguages4humanities,6,0,,RANDOM_SAMPLE
 pharma_complex_dashboards_set,1,0,,RANDOM_SAMPLE
-labeled samples,49,0,,RANDOM_SAMPLE
-labeled samples,45,0,,RANDOM_SAMPLE
-labeled samples,26,0,,RANDOM_SAMPLE
-labeled samples,24,0,,RANDOM_SAMPLE
-labeled samples,28,0,,RANDOM_SAMPLE
-labeled samples,31,0,,RANDOM_SAMPLE
-labeled samples,36,0,,RANDOM_SAMPLE
-labeled samples,35,0,,RANDOM_SAMPLE
-pharma_market_research_data,2,0,,RANDOM_SAMPLE
-labeled samples,46,0,,RANDOM_SAMPLE
-labeled samples,42,0,,RANDOM_SAMPLE
+LIAISON how to guides training module 1,16,0,,RANDOM_SAMPLE
+07-22-Tipos_Metodologicos_Sintesis de Evidencia,14,0,,RANDOM_SAMPLE
+20181108_SciDataCon_DataStewardship_at_TU_Delft_YT,26,0,,RANDOM_SAMPLE
+Firm-Academic Research Collaborations in Economics - Journals’ Perspective,23,0,,RANDOM_SAMPLE
+História e Evolução do Lean Manufacturing,16,0,,RANDOM_SAMPLE
+Lazzeri_Mod7,46,0,,RANDOM_SAMPLE
+220322 Webinar for WUR Data Stewards,7,0,,RANDOM_SAMPLE
+Workshop Biodemography_ITA,48,0,,RANDOM_SAMPLE
+Kaier Publikationskosten Folien,39,0,,RANDOM_SAMPLE
+kick_off_meeting_DBGI_KG,5,0,,RANDOM_SAMPLE
+1. Introduction to deep learning,26,0,,RANDOM_SAMPLE
+NADDI 4-5,18,0,,RANDOM_SAMPLE
+OS_4_PhD_2019,28,0,,RANDOM_SAMPLE
+Bösmann EKC2023,15,0,,RANDOM_SAMPLE
+Overconfidence and Cognitive Dissonance Behavior in the Pension,8,0,,RANDOM_SAMPLE
