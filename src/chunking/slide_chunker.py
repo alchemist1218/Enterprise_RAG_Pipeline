@@ -24,7 +24,7 @@ from your own decks.
 from __future__ import annotations
 from extraction.common.schemas import PageResult, ExtractedObject
 from chunking.schemas import Chunk, ChunkMetadata
-from chunking.sentance_splitter import split_into_sentence_chunks
+from chunking.sentence_splitter import split_into_sentence_chunks
 
 MAX_WORDS_PER_CHUNK = 300   # above this, split further at sentence boundaries (Rule 3)
 MIN_WORDS_PER_CHUNK = 3     # chunks below this are usually not worth keeping on their own
